@@ -77,3 +77,20 @@ Courses | School | Duration
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | The University of British Columbia | 6 weeks 
 [Cryptography 1](https://www.coursera.org/learn/crypto?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&siteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 23 hours
 
+
+## Advanced Topics 
+
+Courses | School | Duration 
+:-- | :--: | :--:
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks 
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month
+[Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) | MIT | -
+[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months 
+
+
+## Useful Links
+[Project Euler](https://projecteuler.net/)
+[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27)
+[5 Essential Data Science Projects](https://www.youtube.com/watch?v=BBDiadC8BvE)
+[Programing, Games, More](https://www.youtube.com/c/KGMIT/featured)
