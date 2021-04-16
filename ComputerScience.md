@@ -84,8 +84,6 @@ Courses | School | Duration
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) | MIT | -
-[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months 
-
 
 ## Useful Links
 
