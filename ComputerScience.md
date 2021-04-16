@@ -94,3 +94,5 @@ Courses | School | Duration
 [Programing, Games, More](https://www.youtube.com/c/KGMIT/featured)
 
 [Statistics Resources](https://online.stat.psu.edu/statprogram/graduate-programs)
+
+[Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) | freeCodeCamp | 1 hour 
