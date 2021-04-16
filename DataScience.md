@@ -23,6 +23,8 @@ Courses | School | Duration
 
 ## Theory 
 
+Courses | School | Duration 
+:-- | :--: | :--: 
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks 
 
 
