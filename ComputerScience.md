@@ -70,7 +70,6 @@ Courses | School | Duration
 
 Courses | School | Duration 
 :-- | :--: | :--:
-[Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours 
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | The University of British Columbia | 6 weeks 
 [Cryptography 1](https://www.coursera.org/learn/crypto?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&siteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 23 hours
