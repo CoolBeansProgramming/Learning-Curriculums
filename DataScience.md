@@ -41,6 +41,8 @@ Courses | School | Duration
 Courses | School | Duration 
 :-- | :--: | :--: 
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks 
+[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months 
+
 
 ## Useful Links
 
