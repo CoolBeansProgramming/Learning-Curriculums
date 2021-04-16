@@ -19,7 +19,7 @@ Courses | School | Duration
 :-- | :--: | :--: 
 [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | freeCodeCamp | 300 hours
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | - | -
-
+[Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours 
 
 ## Theory 
 
