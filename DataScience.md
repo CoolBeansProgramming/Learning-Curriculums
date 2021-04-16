@@ -13,6 +13,19 @@ Courses | School | Duration
 [Learn Data Analysis Tutorial](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=3) | freeCodeCamp | 5 hours 
 
 
+## Machine Learning 
+
+Courses | School | Duration 
+:-- | :--: | :--: 
+[Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | freeCodeCamp | 300 hours
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | - | -
+
+
+## Theory 
+
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks 
+
+
 ## SQL
 
 Courses | School | Duration 
@@ -21,13 +34,11 @@ Courses | School | Duration
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks
 
 
-
-## Machine Learning 
+## Data Mining 
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | freeCodeCamp | 300 hours
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | - | -
+[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks 
 
 ## Useful Links
 
