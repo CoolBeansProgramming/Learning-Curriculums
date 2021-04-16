@@ -6,7 +6,6 @@ Courses | School | Duration
 :-- | :--: | :--: 
 [Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | freeCodeCamp | 5 hours 
 [Python For Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) | freeCodeCamp | 300 hours
-[Data Analysis with Python](https://www.youtube.com/watch?v=GPVsHOlRBBI) | freeCodeCamp | 10 hours 
 [Python Data Science (Professional Certificate)](https://www.edx.org/professional-certificate/python-data-science) | IBM | 7 months
 
 
