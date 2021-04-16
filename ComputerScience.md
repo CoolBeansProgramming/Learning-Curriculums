@@ -34,7 +34,7 @@ Courses | School | Duration
 
 ## Theory 
 
-Introduction to Algorithms book
+[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 Courses | School | Duration 
 :-- | :--: | :--: 
