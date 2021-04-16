@@ -27,3 +27,8 @@ Courses | School | Duration
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | U of Washington | 30 hours
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | U of Washington | 17 hours
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | U of Washington | 18 hours
+
+## Tools for Computer Science
+Courses | School | Duration 
+:-- | :--: | :--: 
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks
