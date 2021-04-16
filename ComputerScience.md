@@ -95,4 +95,4 @@ Courses | School | Duration
 
 [Statistics Resources](https://online.stat.psu.edu/statprogram/graduate-programs)
 
-[Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) | freeCodeCamp | 1 hour 
+[Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) 
