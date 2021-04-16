@@ -90,7 +90,13 @@ Courses | School | Duration
 
 
 ## Useful Links
+
 [Project Euler](https://projecteuler.net/)
+
 [What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27)
+
 [5 Essential Data Science Projects](https://www.youtube.com/watch?v=BBDiadC8BvE)
+
 [Programing, Games, More](https://www.youtube.com/c/KGMIT/featured)
+
+[Statistics Resources](https://online.stat.psu.edu/statprogram/graduate-programs)
