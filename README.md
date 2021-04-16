@@ -1,4 +1,4 @@
-# learning-roadmap
+# Learning  Roadmap 2021 
 
 ## Computer Science Foundation
 
@@ -49,4 +49,31 @@ Courses | School | Duration
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms) | Stanford | 15 hours
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | Stanford | 15 hours
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | Stanford | 14 hours
+
+
+## Systems 
+
+Courses | School | Duration 
+:-- | :--: | :--:
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | 44 hours
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-md4phCcnoGwxHLO1x5gQvw&siteID=PtFMiHYfEVk-md4phCcnoGwxHLO1x5gQvw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Hebrew University of Jerusalem | 90 hours 
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES74XBRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Georgia Tech | 2 months
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | -
+[An Introduction to Comptuer Networks](http://intronetworks.cs.luc.edu/) | Loyola | -
+
+## Unix
+
+Courses | School | Duration 
+:-- | :--: | :--:
+[Unix Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week
+[The Unix Workbench](https://www.coursera.org/learn/unix?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&siteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | John Hopkins | 19 hours
+
+## Applications 
+
+Courses | School | Duration 
+:-- | :--: | :--:
+[Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours 
+[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | The University of British Columbia | 6 weeks 
+[Cryptography 1](https://www.coursera.org/learn/crypto?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&siteID=PtFMiHYfEVk-jvXG8a1tk37PvhCKoHbROA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 23 hours
 
