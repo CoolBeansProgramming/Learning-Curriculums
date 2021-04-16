@@ -28,12 +28,14 @@ Courses | School | Duration
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks 
 
 
-## SQL
+## SQL and Databases 
 
 Courses | School | Duration 
 :-- | :--: | :--: 
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks
+[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours
+
 
 
 ## Data Mining 
