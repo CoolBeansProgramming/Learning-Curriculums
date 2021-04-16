@@ -1,11 +1,9 @@
-# Learning  Roadmap 2021 
+# Computer Science Learning Roadmap  
 
 ## Computer Science Foundation
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | freeCodeCamp | 5 hours 
-[Python For Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) | freeCodeCamp | 300 hours
 [CS50](https://cs50.harvard.edu/x/2021/) | Harvard | 12 lectures
 
 ## Mathematics 
