@@ -8,14 +8,14 @@ Courses | School | Duration
 [Python For Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) | freeCodeCamp | 300 hours
 [Python Data Science (Professional Certificate)](https://www.edx.org/professional-certificate/python-data-science) | IBM | 7 months
 
-
-## Machine Learning 
+## Machine Learning and AI
 
 Courses | School | Duration 
 :-- | :--: | :--: 
 [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | freeCodeCamp | 300 hours
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | - | -
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours 
+[CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks
 
 ## Theory 
 
