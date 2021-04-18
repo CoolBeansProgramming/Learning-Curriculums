@@ -7,7 +7,7 @@ Courses | School | Duration
 [Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | freeCodeCamp | 5 hours 
 [Python For Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) | freeCodeCamp | 300 hours
 [Python Data Science (Professional Certificate)](https://www.edx.org/professional-certificate/python-data-science) | IBM | 7 months
-
+[Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | -
 ## Machine Learning and AI
 
 Courses | School | Duration 
