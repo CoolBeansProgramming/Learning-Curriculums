@@ -45,5 +45,6 @@ Courses | School | Duration
 ## Useful Links
 
 [Kaggle](https://www.kaggle.com/)
+
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
