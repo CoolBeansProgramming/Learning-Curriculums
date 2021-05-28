@@ -9,7 +9,8 @@ Courses | School | Duration
 [Python Data Science (Professional Certificate)](https://www.edx.org/professional-certificate/python-data-science) | IBM | 7 months ([alt](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=RDCMUCCezIgC97PvUuR4_gbFUs5g&start_radio=1&rv=UO98lJQ3QGI&t=1))
 
 ## Python - Computer Science 
-
+Courses | School | Duration 
+:-- | :--: | :--: 
 [Introduction to Programmingin Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | -
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | - 
 
