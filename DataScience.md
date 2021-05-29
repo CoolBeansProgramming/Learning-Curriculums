@@ -11,7 +11,7 @@ Courses | School | Duration
 ## Python - Computer Science 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Introduction to Programmingin Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | -
+[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | -
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | - 
 
 ## Machine Learning and AI
