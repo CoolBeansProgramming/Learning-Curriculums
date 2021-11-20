@@ -99,3 +99,5 @@ Courses | School | Duration
 [Statistics Resources](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 [Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) 
+
+[Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
