@@ -12,6 +12,7 @@ Courses | School | Duration
 :-- | :--: | :--: 
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 32 lectures
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 98 lectures
+[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | 
 [Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures
 
 
