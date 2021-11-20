@@ -4,10 +4,10 @@
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Learn Python](https://www.learnpython.org/) | learnpython | 
-[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | 
-[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | 
-[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python |
+[Learn Python](https://www.learnpython.org/) | learnpython | self-paced |
+[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | 
+[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced |
+[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced |
 
 ## Python - Computer Science 
 Courses | School | Duration 
