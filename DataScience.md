@@ -4,22 +4,22 @@
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Learn Python](https://www.youtube.com/watch?v=rfscVS0vtbw) | freeCodeCamp | 5 hours 
-[Python For Everybody](https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody) | freeCodeCamp | 300 hours
-[Python Data Science (Professional Certificate)](https://www.edx.org/professional-certificate/python-data-science) | IBM | 7 months ([alt](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=RDCMUCCezIgC97PvUuR4_gbFUs5g&start_radio=1&rv=UO98lJQ3QGI&t=1))
+[Learn Python](https://www.learnpython.org/) | learnpython | 
+[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | 
+[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | 
+[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python |
 
 ## Python - Computer Science 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | -
-[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | - 
+[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton 
+[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | 
 
 ## Machine Learning and AI
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/) | freeCodeCamp | 300 hours
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | - | -
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | 
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours 
 [CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks
 
