@@ -53,7 +53,7 @@ Courses | School | Duration
 :-- | :--: | :--: 
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks
-[MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+[MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA) | Programming With Mosh | 3 hours |
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours
 
 # Tableau 
