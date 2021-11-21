@@ -14,6 +14,8 @@ Courses | Source | Duration | Completed
 
 Mini Project: Create 10 questions about your data set and use the previous learned libraries (except SciPy) to answer the questions. Use at least two functions from each library and report your findings on GitHub. 
 
+Helpful Exercises to work through: [Learning Scientific Programming with Python](https://scipython.com/book/) 
+
 ## Mathematics  
 
 Courses | Source | Duration | Completed
@@ -21,6 +23,9 @@ Courses | Source | Duration | Completed
 [Tutorial: Statistics and Data Analysis](https://www.youtube.com/watch?v=XbHeCL_8UhA) | MITCBMM | 1 hour | |
 [Learn Basic satistics for Business Analytics](https://www.youtube.com/watch?v=RiJYbxH77eQ) | Analytics Analysis Business | 17 minutes | |
 [Teach me STATISTICS in half an hour](https://www.youtube.com/watch?v=kyjlxsLW1Is) | zedstatistics | 40 minutes | |
+[The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s) | 3Blue1Brown | 3 hours | |
+[Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) | 3Blue1Brown | 3 hours | |
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 32 lectures | |
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 98 lectures | |
 [Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
@@ -33,6 +38,7 @@ Mini Project: Perform statistical analysis on your data set using the SciPy libr
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
+[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
 [Algorithms Specilization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 
@@ -44,8 +50,10 @@ Mini Python Project: No project as the books and course will have exercises.
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html) | kdnuggets | self-paced | |
+[Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) | Google | 15 hours | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours | |
+
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
 [CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks | |
 
@@ -140,6 +148,14 @@ Mini Project: TBA
 [zedstatistics on YouTube](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
 [Statistics How To](https://www.statisticshowto.com/)
 [Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
+[An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/)
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
+## Mathematics 
+[Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
+[Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
+
 
 
 ## Excel 
