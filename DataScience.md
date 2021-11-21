@@ -99,6 +99,8 @@ Courses | Source | Duration
 :-- | :--: | :--: 
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | 
 
+Mini Project: Perform a full data analysis on your data set; report your findings to GitHub. 
+
 ## Data Mining 
 
 Courses | Source | Duration 
