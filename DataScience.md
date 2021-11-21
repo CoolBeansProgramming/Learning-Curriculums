@@ -52,6 +52,7 @@ Courses | School | Duration
 Courses | School | Duration 
 :-- | :--: | :--: 
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours
+[Introduction to MySQL Workbench](https://www.youtube.com/watch?v=RSHevYMwCVw) | Caleb Curry | 10 minutes 
 [Learn SQL in 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) | Web Dev Simplified | 56 minutes 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks
 [MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA) | Programming With Mosh | 3 hours |
@@ -87,6 +88,11 @@ Courses | School | Duration
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks |
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months |
 
+# Domain Specific
+
+Courses | School | Duration 
+:-- | :--: | :--: 
+[Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks |
 
 ## Useful Links
 
