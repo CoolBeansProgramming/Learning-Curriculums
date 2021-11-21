@@ -69,6 +69,11 @@ Courses | School | Duration
 [Unix Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week
 [The Unix Workbench](https://www.coursera.org/learn/unix?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&siteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | John Hopkins | 19 hours
 
+
+## Git 
+Courses | School | Duration 
+:-- | :--: | :--:
+[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book 
 ## Applications 
 
 Courses | School | Duration 
