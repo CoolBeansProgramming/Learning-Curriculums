@@ -21,7 +21,7 @@ Helpful Exercises to work through: [Learning Scientific Programming with Python]
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Tutorial: Statistics and Data Analysis](https://www.youtube.com/watch?v=XbHeCL_8UhA) | MITCBMM | 1 hour | |
-[Learn Basic satistics for Business Analytics](https://www.youtube.com/watch?v=RiJYbxH77eQ) | Analytics Analysis Business | 17 minutes | |
+[Learn Basic satistics for Business Analytics](https://www.youtube.com/watch?v=RiJYbxH77eQ) | Analytics Analysis Business | 17 minutes | X |
 [Teach me STATISTICS in half an hour](https://www.youtube.com/watch?v=kyjlxsLW1Is) | zedstatistics | 40 minutes | |
 [The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s) | 3Blue1Brown | 3 hours | |
 [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) | 3Blue1Brown | 3 hours | |
