@@ -94,6 +94,16 @@ Courses | Source | Duration | Completed
 [Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
 
+Mini Project: TBA 
+
+## Logistic Regression 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/) | MIT | 5 sections | 
+[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers } self-paced |
+
+Mini Project: TBA
 
 ## Time Series 
 
