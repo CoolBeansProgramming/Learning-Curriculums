@@ -71,7 +71,7 @@ Mini Project: TBA
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | |
+[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
 [Learn PostgreSQL Tutorial](https://www.youtube.com/watch?app=desktop&v=qw--VYLpxG4) | freecodecamp | 4 hours | | 
