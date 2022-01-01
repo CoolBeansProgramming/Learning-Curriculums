@@ -73,7 +73,7 @@ Courses | School | Duration
 ## Git 
 Courses | School | Duration 
 :-- | :--: | :--:
-[How Git Branches Work\(https://www.freecodecamp.org/news/how-git-branches-work/) | freecodecamp | 
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | 
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book 
 
 ## Applications 
