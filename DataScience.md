@@ -71,16 +71,15 @@ Mini Project: TBA
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
-[ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | | 
-[PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
-[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
-[Learn PostgreSQL Tutorial](https://www.youtube.com/watch?app=desktop&v=qw--VYLpxG4) | freecodecamp | 4 hours | | 
+
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours | X |
-[Introduction to MySQL Workbench](https://www.youtube.com/watch?v=RSHevYMwCVw) | Caleb Curry | 10 minutes | |
-[Learn SQL in 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo) | Web Dev Simplified | 56 minutes | |
-[MySQL Tutorial for Beginners](https://www.youtube.com/watch?v=7S_tz1z_5bA) | Programming With Mosh | 3 hours | |
+[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
+[ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | X | 
+[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
+[PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | | 
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
+[Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150) | Udacity | 16 weeks | | 
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours |
 
 Mini Project: Create 10 questions about your data set and perform queries to answer the questions; report your findings on GitHub.
