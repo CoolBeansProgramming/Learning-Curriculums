@@ -70,7 +70,7 @@ Mini Project: TBA
 ## SQL and Databases 
 
 Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
+:-- | :--: | :--: | :--: |
 
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours | X |
 [Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
@@ -80,7 +80,7 @@ Courses | Source | Duration | Completed
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
 [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150) | Udacity | 16 weeks | | 
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours |
+[Database Management Essentials](https://www.coursera.org/learn/database-management) | University of Colorado | 36 hours | |
 
 Mini Project: Create 10 questions about your data set and perform queries to answer the questions; report your findings on GitHub.
 
