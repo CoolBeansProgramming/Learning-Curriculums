@@ -73,8 +73,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 
 [SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours | X |
-[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
-[ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | X | 
 
 
 Mini Project: Create 10 questions about your data set and perform queries to answer the questions; report your findings on GitHub.
