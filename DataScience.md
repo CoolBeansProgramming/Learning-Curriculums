@@ -78,14 +78,14 @@ Courses | Source | Duration | Completed
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | | 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
-[Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150) | Udacity | 16 weeks | | 
 
 
 Mini Project: Create 10 questions about your data set and perform queries to answer the questions; report your findings on GitHub.
 
-## Tableau 
+## Data Visualization  
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
 
 Mini Project: Explore your data set and create 10 questions to find answers to. Report your findings on GitHub. 
