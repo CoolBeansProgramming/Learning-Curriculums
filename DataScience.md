@@ -53,7 +53,6 @@ Courses | Source | Duration | Completed
 [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) | Google | 15 hours | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours | |
-
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
 [CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks | |
 
