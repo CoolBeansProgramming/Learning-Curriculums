@@ -20,19 +20,19 @@ Helpful Exercises to work through: [Learning Scientific Programming with Python]
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Tutorial: Statistics and Data Analysis](https://www.youtube.com/watch?v=XbHeCL_8UhA) | MITCBMM | 1 hour | |
-[Learn Basic satistics for Business Analytics](https://www.youtube.com/watch?v=RiJYbxH77eQ) | Analytics Analysis Business | 17 minutes | X |
-[Teach me STATISTICS in half an hour](https://www.youtube.com/watch?v=kyjlxsLW1Is) | zedstatistics | 40 minutes | |
-[The Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s) | 3Blue1Brown | 3 hours | |
-[Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) | 3Blue1Brown | 3 hours | |
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 32 lectures | |
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 98 lectures | |
+[Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced | |
+[Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced | |
+[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
 [Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
 [Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures | |
 
 Mini Project: Perform statistical analysis on your data set using the SciPy library. Publish your findings on GitHub. 
-
+For additional support for:
+Linear Algebra see [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) and [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+Calculus see [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s)
+Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
 ## Python in Computer Science 
 Courses | Source | Duration | Completed
