@@ -29,6 +29,7 @@ Courses | Source | Duration | Completed
 [Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures | |
 
 Mini Project: Perform statistical analysis on your data set using the SciPy library. Publish your findings on GitHub. 
+
 For additional support for:
 
 Linear Algebra see [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) and [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
