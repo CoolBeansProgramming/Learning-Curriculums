@@ -1,20 +1,5 @@
 # Data Science Learning Roadmap  
 
-## Python in Data Science 
-
-Courses | Source | Duration | Completed 
-:-- | :--: | :--: | :--: 
-[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
-[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
-[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
-[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
-[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
-[SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
-[Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
-
-Mini Project: Create 10 questions about your data set and use the previous learned libraries (except SciPy) to answer the questions. Use at least two functions from each library and report your findings on GitHub. 
-
-Helpful Exercises to work through: [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
 ## Mathematics  
 
@@ -52,6 +37,22 @@ Courses | Source | Duration | Completed
 
 
 Mini Project: Create 10 questions about your data set and perform queries to answer the questions; report your findings on GitHub.
+
+## Python in Data Science 
+
+Courses | Source | Duration | Completed 
+:-- | :--: | :--: | :--: 
+[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
+[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
+[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
+[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
+[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
+[SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
+[Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
+
+Mini Project: Create 10 questions about your data set and use the previous learned libraries (except SciPy) to answer the questions. Use at least two functions from each library and report your findings on GitHub. 
+
+Helpful Exercises to work through: [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
 ## Python in Computer Science 
 Courses | Source | Duration | Completed
