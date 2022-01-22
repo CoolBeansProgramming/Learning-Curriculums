@@ -1,6 +1,6 @@
 # Data Science Learning Roadmap  
 
-## Python - Data Science 
+## Python in Data Science 
 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
@@ -40,7 +40,6 @@ Courses | Source | Duration | Completed
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
-[Algorithms Specilization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 
 Mini Python Project: No project as the books and course will have exercises.
 
