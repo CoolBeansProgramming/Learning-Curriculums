@@ -31,6 +31,13 @@ Courses | Source | Duration | Completed
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
 
+## Data Visualization  
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
+[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
+
+
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
@@ -42,16 +49,12 @@ Courses | Source | Duration | Completed
 [SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
 
-
 Helpful Exercises to work through: [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
-## Python in Computer Science 
+## Theory 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
-[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
-[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
-
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks | |
 
 ## Machine Learning and AI
 Courses | Source | Duration | Completed
@@ -61,19 +64,6 @@ Courses | Source | Duration | Completed
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html) | kdnuggets | self-paced | |
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
 [CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks | |
-
-
-## Theory 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks | |
-
-
-## Data Visualization  
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
-[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
 
 
 ## Excel 
