@@ -34,8 +34,8 @@ Courses | Source | Duration | Completed
 ## Data Visualization  
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
+[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
 
 
 ## Python in Data Science 
