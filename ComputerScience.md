@@ -10,10 +10,13 @@ Courses | School | Duration
 
 Courses | School | Duration 
 :-- | :--: | :--: 
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | MIT | 32 lectures
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | MIT | 98 lectures
-[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | 
-[Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced 
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced 
+[Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced 
+[Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced 
+[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced 
+[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced 
+[Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures 
 
 
 ## Programming 
@@ -27,6 +30,14 @@ Courses | School | Duration
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | University of Washington | 30 hours
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington | 17 hours
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington | 18 hours
+
+
+## Python in Computer Science 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
+[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
+[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
 
 ## Tools for Computer Science
 
