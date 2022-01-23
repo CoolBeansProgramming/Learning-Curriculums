@@ -124,24 +124,31 @@ Courses | Source | Duration | Completed
 
 ## Data Sources and Projects 
 [Kaggle](https://www.kaggle.com/)
+
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
 
 ## Python Resources 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
 
 
 ## Statistics 
 [zedstatistics on YouTube](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
+
 [Statistics How To](https://www.statisticshowto.com/)
+
 [Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
+
 [An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/)
+
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
 ## Mathematics 
 [Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
+
 [Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
 
 
