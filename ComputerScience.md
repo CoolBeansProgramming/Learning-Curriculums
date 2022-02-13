@@ -19,14 +19,20 @@ Courses | School | Duration
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington | 17 hours
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington | 18 hours
 
+## Python
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110) | Udacity | 5 weeks | |
+[How to Think Like a Computer Scientist: Learning with Python 3](https://openbookproject.net/thinkcs/python/english3e/index.html) | Wentworth | online book | |
+
 ## Python w/Theory
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
+[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms) | Stanford | 17 hours
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms) | Stanford | 15 hours
@@ -104,3 +110,5 @@ Courses | School | Duration
 [Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) 
 
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
+
+[Learn Python](https://www.learnpython.org/) 
