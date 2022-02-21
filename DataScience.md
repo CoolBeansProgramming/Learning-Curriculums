@@ -55,7 +55,7 @@ Helpful Exercises to work through: [Learning Scientific Programming with Python]
 ## Theory 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | MIT | 9 weeks | |
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
 
 ## Machine Learning and AI
 Courses | Source | Duration | Completed
