@@ -32,7 +32,6 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
-[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | MIT | self-paced | | 
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms) | Stanford | 17 hours
