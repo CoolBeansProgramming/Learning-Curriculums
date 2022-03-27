@@ -108,9 +108,12 @@ Courses | Source | Duration | Completed
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
 
 
-# Domain Specific
+# Domain Specific: Finance 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Business and Financial Modeling Specilization](https://www.coursera.org/specializations/wharton-business-financial-modeling) | Wharton | 6 months | | 
+[Nick DeRobertis’ Financial Modeling](https://nickderobertis.github.io/fin-model-course/) | DeRobertis | self-paced | |
+[What is a Financial Model? with DeRobertis](https://www.youtube.com/watch?v=oF5M2JjF1ZQ) | DeRobertis | self-paced | |
 [Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks | |
 
 # Useful Links
