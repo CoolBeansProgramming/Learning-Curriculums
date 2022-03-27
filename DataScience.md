@@ -113,7 +113,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Business and Financial Modeling Specilization](https://www.coursera.org/specializations/wharton-business-financial-modeling) | Wharton | 6 months | | 
 [Nick DeRobertis’ Financial Modeling](https://nickderobertis.github.io/fin-model-course/) | DeRobertis | self-paced | |
-[What is a Financial Model? with DeRobertis](https://www.youtube.com/watch?v=oF5M2JjF1ZQ) | DeRobertis | self-paced | |
+[DeRobertis’ Corresponding Financial Modeling Videos](https://www.youtube.com/watch?v=xL0Wo14Hqbk&list=PLACKX9tziAQJSk4YSGN0N2II985HTIuHD) | DeRobertis | self-paced | |
 [Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks | |
 
 # Useful Links
