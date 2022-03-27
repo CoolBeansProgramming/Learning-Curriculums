@@ -44,7 +44,7 @@ Courses | Source | Duration | Completed
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
-**[A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |**
+[A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
 [Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
