@@ -33,6 +33,7 @@ Courses | Source | Duration | Completed
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
+[Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
 ## Data Visualization  
 Courses | Source | Duration | Completed
