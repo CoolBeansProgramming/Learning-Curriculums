@@ -32,6 +32,7 @@ Courses | Source | Duration | Completed
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
+[PostgreSQL Exercises](https://pgexercises.com/) | PostgreSQL Exercises | self-paced | | 
 [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
