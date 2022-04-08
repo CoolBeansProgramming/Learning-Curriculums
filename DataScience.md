@@ -1,39 +1,17 @@
 # Data Science Learning Roadmap  
 
-
-## Mathematics  
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
-[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
-[Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced | |
-[Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced | |
-[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
-[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
-[Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures | |
-
-For additional support for:
-
-Linear Algebra see [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) and [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-
-Calculus see [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s)
-
-Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
-
-## SQL 
+## SQL and Databases 
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql)
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[SQL Tutorial](https://www.youtube.com/watch?v=HXV3zeQKqGY) | freeCodeCamp | 4 hours | X |
 [Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
 [ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | X | 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [PostgreSQL Exercises](https://pgexercises.com/) | PostgreSQL Exercises | self-paced | | 
-[8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-1/) | Data with Danny | 8 weeks | |
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
 ## Data Visualization  
@@ -42,6 +20,16 @@ Courses | Source | Duration | Completed
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
 [How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
 
+## Excel 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
+[Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
+
+## R
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | |
 
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
@@ -71,13 +59,11 @@ Courses | Source | Duration | Completed
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
 [CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks | |
 
-
-## Excel 
+## Data Mining 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
-[Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
-
+[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
+[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
 
 ## Logistic Regression 
 Courses | Source | Duration | Completed
@@ -85,7 +71,6 @@ Courses | Source | Duration | Completed
 [Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/) | MIT | 5 sections | 
 [Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
 [How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers } self-paced |
-
 
 ## Time Series 
 Courses | Source | Duration | Completed
@@ -98,19 +83,6 @@ Courses | Source | Duration | Completed
 [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) | Coghlan | online book | |
 
 
-## R
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | |
-
-
-## Data Mining 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
-[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
-
-
 # Domain Specific: Finance 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
@@ -118,6 +90,27 @@ Courses | Source | Duration | Completed
 [Nick DeRobertis’ Financial Modeling](https://nickderobertis.github.io/fin-model-course/) | DeRobertis | self-paced | |
 [DeRobertis’ Corresponding Financial Modeling Videos](https://www.youtube.com/watch?v=xL0Wo14Hqbk&list=PLACKX9tziAQJSk4YSGN0N2II985HTIuHD) | DeRobertis | self-paced | |
 [Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks | |
+
+## Mathematics  
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
+[Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced | |
+[Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced | |
+[Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
+[Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
+[Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures | |
+
+For additional support for:
+
+Linear Algebra see [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) and [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+
+Calculus see [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s)
+
+Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+
 
 # Useful Links
 
