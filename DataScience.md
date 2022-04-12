@@ -32,11 +32,11 @@ Courses | Source | Duration | Completed
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) | freecodecamp |2 hours | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
 [ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | |
 [Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
-[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | self-paced | | 
+[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | | 
 [Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
 
 
