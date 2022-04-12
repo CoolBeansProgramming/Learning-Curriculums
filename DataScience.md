@@ -121,7 +121,7 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 
 
-## Useful Links
+# Useful Links
 
 ## Data Sources and Projects 
 [Kaggle](https://www.kaggle.com/)
@@ -167,7 +167,7 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 
 
-## General Information 
+# General Information 
 [Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
 
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas)
