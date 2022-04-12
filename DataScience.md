@@ -3,6 +3,7 @@
 ## SQL and Databases 
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql)
+
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 Courses | Source | Duration | Completed
