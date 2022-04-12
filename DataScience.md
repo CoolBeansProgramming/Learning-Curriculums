@@ -33,11 +33,11 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug)
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | self-paced | | 
-[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | self-paced | |
-[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | self-paced | |
+[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
+[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | |
+[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | self-paced | | 
-[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | self-paced | |
+[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
 
 
 ## Python in Data Science 
