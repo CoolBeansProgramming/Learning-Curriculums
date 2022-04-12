@@ -92,7 +92,7 @@ Courses | Source | Duration | Completed
 [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) | Coghlan | online book | |
 
 
-# Domain Specific: Finance 
+## Domain Specific: Finance 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Business and Financial Modeling Specilization](https://www.coursera.org/specializations/wharton-business-financial-modeling) | Wharton | 6 months | | 
@@ -121,7 +121,7 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 
 
-# Useful Links
+## Useful Links
 
 ## Data Sources and Projects 
 [Kaggle](https://www.kaggle.com/)
