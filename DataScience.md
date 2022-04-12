@@ -59,7 +59,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
 
-## Machine Learning and AI
+## Machine Learning 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours | |
