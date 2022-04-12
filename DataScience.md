@@ -3,6 +3,7 @@
 ## SQL and Databases 
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql)
+[SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
@@ -19,6 +20,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
 [How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | Wilke | online book | self-paced | | 
 
 ## Excel 
 Courses | Source | Duration | Completed
@@ -29,7 +31,13 @@ Courses | Source | Duration | Completed
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | |
+[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | self-paced | | 
+[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | self-paced | |
+[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | self-paced | |
+[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | self-paced | | 
+[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | self-paced | |
+
 
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
@@ -119,11 +127,19 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
+## Data Visualizations 
+[storytelling with data](https://www.storytellingwithdata.com/) 
+
+## R
+[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
+
 
 ## Python Resources 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+
+[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
 
 
 ## Statistics 
