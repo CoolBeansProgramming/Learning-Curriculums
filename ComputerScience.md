@@ -23,10 +23,9 @@ Courses | School | Duration
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
-[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 [Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110) | Udacity | 5 weeks | |
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
-
+[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 
 ## Python w/Theory
 
