@@ -43,14 +43,13 @@ Courses | Source | Duration | Completed
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
-[A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |
-[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
 [Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
 [Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
 [SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
+[A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |
 
 Helpful Exercises to work through: [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
