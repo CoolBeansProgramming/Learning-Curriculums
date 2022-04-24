@@ -14,16 +14,15 @@ Courses | School | Duration
 ## Computer Science Foundation
 Courses | School | Duration 
 :-- | :--: | :--: 
-[CS50](https://cs50.harvard.edu/x/2021/) | Harvard | 12 lectures
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | University of Washington | 30 hours
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington | 17 hours
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington | 18 hours
+[CS50](https://cs50.harvard.edu/x/2021/) | Harvard | 12 lectures | |
+[Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) | freecodecamp | 75 minutes | |
 
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [Introduction to Python Programming](https://classroom.udacity.com/courses/ud1110) | Udacity | 5 weeks | |
+[CS50 Python](https://cs50.harvard.edu/python/2022/weeks/0/) | Harvard | 8 weeks | |
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 
@@ -68,12 +67,10 @@ Courses | School | Duration
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | -
 [An Introduction to Comptuer Networks](http://intronetworks.cs.luc.edu/) | Loyola | -
 
-## Unix
+## Linux
 Courses | School | Duration 
 :-- | :--: | :--:
-[Unix Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week
-[The Unix Workbench](https://www.coursera.org/learn/unix?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&siteID=PtFMiHYfEVk-0lOhCJhhurcfDbTtq7FZEQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | John Hopkins | 19 hours
-
+[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week
 
 ## Git 
 Courses | School | Duration 
