@@ -35,7 +35,7 @@ Courses | Source | Duration | Completed
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
 
 Resources
-
+[Kevin Stratvert](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig)
 [Excel Campus](https://www.youtube.com/user/ExcelCampus)
 
 ## Python for Data Science 
@@ -62,6 +62,10 @@ Courses | Source | Duration | Completed
 [Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | | 
 [Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
+
+Resources
+
+[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
 
 ## Theory 
 Courses | Source | Duration | Completed
@@ -131,7 +135,10 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 # Useful Links
 
-## Data Sources and Projects 
+[Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+
+
+## Data Sets and Projects 
 [Kaggle](https://www.kaggle.com/)
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
@@ -139,9 +146,6 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 ## Data Visualizations 
 [storytelling with data](https://www.storytellingwithdata.com/) 
-
-## R
-[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
 
 
 ## Python Resources 
@@ -170,6 +174,4 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 [Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
 
 
-# General Information 
-[Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
 
