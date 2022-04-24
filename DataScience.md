@@ -13,6 +13,7 @@ Courses | Source | Duration | Completed
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
 Exercises
+
 [PostgreSQL Exercises](https://pgexercises.com/)
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql)
