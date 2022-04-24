@@ -43,6 +43,7 @@ Courses | Source | Duration | Completed
 ## Python in Data Science 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
+[CS50 Python](https://cs50.harvard.edu/python/2022/weeks/0/) | Harvard | 8 weeks | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
 [Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
