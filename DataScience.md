@@ -30,7 +30,12 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
+[Power Query](https://www.youtube.com/watch?v=0aeZX1l4JT4) | Kevin Stratvert | 15 minutes | |
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
+
+Resources
+
+[Excel Campus](https://www.youtube.com/user/ExcelCampus)
 
 ## Python for Data Science 
 Courses | Source | Duration | Completed 
@@ -164,14 +169,6 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 [Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
 
 
-
-## Excel 
-[Excel Campus](https://www.youtube.com/user/ExcelCampus)
-
-
-
 # General Information 
 [Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
-
-[Derek Banas on YouTube](https://www.youtube.com/user/derekbanas)
 
