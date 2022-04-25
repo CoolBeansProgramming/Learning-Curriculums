@@ -135,13 +135,15 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 
 # Useful Links
 
+[Meta (Facebook) Data Science Interview Questions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/#sql-interview-questions)
+
 [Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
 
 
 ## Data Sets and Projects 
 [Kaggle](https://www.kaggle.com/)
 
-[Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
+[Data Analyst Portfolio Projects](https://www.youtube.com/wa)tch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
 
 ## Data Visualizations 
