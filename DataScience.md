@@ -143,7 +143,7 @@ Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc
 ## Data Sets and Projects 
 [Kaggle](https://www.kaggle.com/)
 
-[Data Analyst Portfolio Projects](https://www.youtube.com/wa)tch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
+[Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
 
 ## Data Visualizations 
