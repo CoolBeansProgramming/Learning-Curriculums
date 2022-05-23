@@ -47,6 +47,7 @@ Courses | Source | Duration | Completed
 [Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
 [SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | O'Reilly | self-paced | | 
 [A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |
 
 Exercises
