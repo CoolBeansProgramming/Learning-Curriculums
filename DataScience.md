@@ -1,8 +1,24 @@
 # Data Science Learning Roadmap  
 
+## Excel 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
+[Power Query](https://www.youtube.com/watch?v=0aeZX1l4JT4) | Kevin Stratvert | 15 minutes | |
+[Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
+
+Resources
+[Kevin Stratvert](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig)
+[Excel Campus](https://www.youtube.com/user/ExcelCampus)
+
+## Data Visualization  
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
+[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
+[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | Wilke | online book | | 
+
 ## SQL and Databases 
-
-
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
@@ -20,23 +36,19 @@ Exercises
 
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
-## Data Visualization  
+## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
-[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
-[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | Wilke | online book | | 
-
-## Excel 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
-[Power Query](https://www.youtube.com/watch?v=0aeZX1l4JT4) | Kevin Stratvert | 15 minutes | |
-[Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
+[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) | freecodecamp |2 hours | |
+[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
+[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | |
+[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
+[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | | 
+[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
 
 Resources
-[Kevin Stratvert](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig)
-[Excel Campus](https://www.youtube.com/user/ExcelCampus)
+
+[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
 
 ## Python for Data Science 
 Courses | Source | Duration | Completed 
@@ -54,19 +66,6 @@ Exercises
 
 [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
-## R
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) | freecodecamp |2 hours | |
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
-[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | |
-[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
-[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | | 
-[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
-
-Resources
-
-[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
 
 ## Theory 
 Courses | Source | Duration | Completed
