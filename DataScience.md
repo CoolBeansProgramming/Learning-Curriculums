@@ -14,7 +14,7 @@ Resources
 ## Data Visualization  
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | |
+[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
 [How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | Wilke | online book | | 
 
