@@ -66,12 +66,12 @@ Courses | Source | Duration | Completed
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 
 Performance Measures: 
-[Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
-and [Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
+[Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9),
+[Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
 
 Classification:
-[kNN Explained in Python](https://www.youtube.com/watch?v=4HKqjENq9OU)
-and [Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
+[kNN Explained in Python](https://www.youtube.com/watch?v=4HKqjENq9OU),
+[Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
 
 Linear and Logistic Regression:
 [Linear Regression Analysis in Python](https://www.youtube.com/watch?v=NUXdtN1W1FE),
@@ -91,11 +91,8 @@ Random Forests:
 Dimensionality Reduction: 
 [PCA Explained in Python](https://www.youtube.com/watch?v=2NEu9dbM4A8)
 
-
-Resources
-
-[Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html)
-
+Other topics: 
+[Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html),
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
 
 
