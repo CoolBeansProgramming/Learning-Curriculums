@@ -74,10 +74,10 @@ Classification:
 and [Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
 
 Linear and Logistic Regression:
-[Linear Regression Analysis in Python](https://www.youtube.com/watch?v=NUXdtN1W1FE)
-,[Multiple Regression Explained](https://www.youtube.com/watch?v=zITIFTsivN8)
-,[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/)  
-, and [Logistic Regression Explained in Python](https://www.youtube.com/watch?v=XnOAdxOWXWg)
+[Linear Regression Analysis in Python](https://www.youtube.com/watch?v=NUXdtN1W1FE),
+[Multiple Regression Explained](https://www.youtube.com/watch?v=zITIFTsivN8),
+[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/),  
+[Logistic Regression Explained in Python](https://www.youtube.com/watch?v=XnOAdxOWXWg)
 
 Support Vector Machines:
 [Support Vector Machines Explained in Python](https://www.youtube.com/watch?v=TtKF996oEl8)
@@ -91,13 +91,14 @@ Random Forests:
 Dimensionality Reduction: 
 [PCA Explained in Python](https://www.youtube.com/watch?v=2NEu9dbM4A8)
 
-Resources and Other Topics 
+
+Resources
 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html)
 
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
 
-[CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/)
+
 
 
 
