@@ -178,22 +178,3 @@ Courses | Source | Duration | Completed
 [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
 
 
-## Statistics 
-[zedstatistics on YouTube](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
-
-[Statistics How To](https://www.statisticshowto.com/)
-
-[Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
-
-[An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/)
-
-[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-
-## Mathematics 
-[Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
-
-[Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
-
-
-
