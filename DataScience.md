@@ -65,32 +65,32 @@ Courses | Source | Duration | Completed
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 
-Performance Measures 
+Performance Measures: 
 [Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 and [Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
 
-Classification 
+Classification:
 [kNN Explained in Python](https://www.youtube.com/watch?v=4HKqjENq9OU)
-[Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
+and [Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
 
-Linear and Logistic Regression 
+Linear and Logistic Regression:
 [Linear Regression Analysis in Python](https://www.youtube.com/watch?v=NUXdtN1W1FE)
-[Multiple Regression Explained](https://www.youtube.com/watch?v=zITIFTsivN8)
-[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/)  
-[Logistic Regression Explained in Python](https://www.youtube.com/watch?v=XnOAdxOWXWg)
+,[Multiple Regression Explained](https://www.youtube.com/watch?v=zITIFTsivN8)
+,[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/)  
+, and [Logistic Regression Explained in Python](https://www.youtube.com/watch?v=XnOAdxOWXWg)
 
-Support Vector Machines 
+Support Vector Machines:
 [Support Vector Machines Explained in Python](https://www.youtube.com/watch?v=TtKF996oEl8)
 
-Decision Trees
+Decision Trees:
 [Decision Trees Explained in Python](https://www.youtube.com/watch?v=RmajweUFKvM)
 
-Random Forests
+Random Forests:
 [Random Forests Explained in Python](https://www.youtube.com/watch?v=eM4uJ6XGnSM)
 
-Dimensionality Reduction 
+Dimensionality Reduction: 
 [PCA Explained in Python](https://www.youtube.com/watch?v=2NEu9dbM4A8)
-had
+
 Resources and Other Topics 
 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html)
