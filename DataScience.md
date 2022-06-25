@@ -34,6 +34,73 @@ Exercises
 
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
+
+
+## Python
+Courses | Source | Duration | Completed 
+:-- | :--: | :--: | :--: 
+[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
+[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
+[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
+[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
+[SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
+[Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
+[Data Analysis with Pyton for Excel Users](https://www.youtube.com/watch?v=WcDaZ67TVRo&t=11396s) | freecodecamp | 4 hours | |
+
+Exercises and Resources 
+
+[Learning Scientific Programming with Python](https://scipython.com/book/) 
+
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+## Theory 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
+
+
+## Machine Learning with Python 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
+
+Performance Measures 
+[Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
+[Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
+
+Classification 
+[kNN Explained in Python](https://www.youtube.com/watch?v=4HKqjENq9OU)
+[Naive Bayes Classifier Explained in Python](https://www.youtube.com/watch?v=l3dZ6ZNFjo0)
+
+Linear and Logistic Regression 
+[Linear Regression Analysis in Python](https://www.youtube.com/watch?v=NUXdtN1W1FE)
+[Multiple Regression Explained](https://www.youtube.com/watch?v=zITIFTsivN8)
+[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/)  
+[Logistic Regression Explained in Python](https://www.youtube.com/watch?v=XnOAdxOWXWg)
+
+Support Vector Machines 
+[Support Vector Machines Explained in Python](https://www.youtube.com/watch?v=TtKF996oEl8)
+
+Decision Trees
+[Decision Trees Explained in Python](https://www.youtube.com/watch?v=RmajweUFKvM)
+
+Random Forests
+[Random Forests Explained in Python](https://www.youtube.com/watch?v=eM4uJ6XGnSM)
+
+Dimensionality Reduction 
+[PCA Explained in Python](https://www.youtube.com/watch?v=2NEu9dbM4A8)
+had
+Resources and Other Topics 
+
+[Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html)
+
+[Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
+
+[CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/)
+
+
+
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
@@ -51,36 +118,13 @@ Resources
 [Advanced R](https://adv-r.hadley.nz/)
 
 
-## Python for Data Science 
-Courses | Source | Duration | Completed 
-:-- | :--: | :--: | :--: 
-[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
-[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
-[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
-[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
-[SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
-[Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | O'Reilly | self-paced | | 
-[A Complete 26 Week Course to Learn Python for Data Science in 2022](https://towardsdatascience.com/a-complete-26-week-course-to-learn-python-for-data-science-in-2022-e95b67551df4) | Towards Data Science - Andrade | 26 weeks | |
-
-Exercises
-
-[Learning Scientific Programming with Python](https://scipython.com/book/) 
-
-
-## Theory 
+## Machine Learning with R 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
+[Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
+[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
 
-## Machine Learning 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
-[Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html) | kdnuggets | self-paced | |
-[Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
-[CS50's Introduction to Artifical Intelligence wih Python](https://cs50.harvard.edu/ai/2020/) | Harvad | 6 weeks | |
 
 ## Time Series 
 Courses | Source | Duration | Completed
@@ -101,12 +145,6 @@ Courses | Source | Duration | Completed
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
 
-## Logistic Regression 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/) | MIT | 5 sections | 
-[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
 
 ## Domain Specific: Finance 
 Courses | Source | Duration | Completed
