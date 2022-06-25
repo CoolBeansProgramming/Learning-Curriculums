@@ -1,22 +1,20 @@
 # Data Science Learning Roadmap  
 
-## Excel 
+## Excel, Power BI, and Tableau 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
-[Power Query](https://www.youtube.com/watch?v=0aeZX1l4JT4) | Kevin Stratvert | 15 minutes | |
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
+[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
+
 
 Resources
+
 [Kevin Stratvert](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig)
+
 [Excel Campus](https://www.youtube.com/user/ExcelCampus)
 
-## Data Visualization  
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
-[How to use Microsoft Power BI](https://www.youtube.com/watch?v=TmhQCQr_DCA) | Stratvert | 28 minutes | |
-[Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) | Wilke | online book | | 
+
 
 ## SQL and Databases 
 Courses | Source | Duration | Completed
@@ -39,16 +37,19 @@ Exercises
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) | freecodecamp |2 hours | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
-[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/) | Wickham | online book | |
-[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/) | Winston | online book | |
-[Advanced R](https://adv-r.hadley.nz/) | Wickman | online book | | 
-[Hands on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | online book | | 
+[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
 
 Resources
 
-[David Robinson](https://www.youtube.com/user/safe4democracy/featured)
+[David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
+
+[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
+
+[Hands on Programming with R](https://rstudio-education.github.io/hopr/)
+
+[Advanced R](https://adv-r.hadley.nz/)
+
 
 ## Python for Data Science 
 Courses | Source | Duration | Completed 
@@ -75,7 +76,7 @@ Courses | Source | Duration | Completed
 ## Machine Learning 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Machine Learning](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&siteID=PtFMiHYfEVk-Tr9MHoJNLweo.ZSKKXFr1A&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Stanford | 60 hours | |
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html) | kdnuggets | self-paced | |
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) | Unfold Data Science | 14 minutes | |
@@ -89,7 +90,10 @@ Courses | Source | Duration | Completed
 [STAT 510: Applied Time Sreies Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) | Duke | self-paced | |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
-[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) | Coghlan | online book | |
+
+Resources
+
+[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 
 ## Data Mining 
 Courses | Source | Duration | Completed
@@ -102,7 +106,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Logistic Regression](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/) | MIT | 5 sections | 
 [Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers } self-paced |
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
 
 ## Domain Specific: Finance 
 Courses | Source | Duration | Completed
