@@ -15,7 +15,7 @@ Courses | Source | Duration | Completed
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 
-## Python w/Theory
+## Python with Theory
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
@@ -30,7 +30,7 @@ Courses | Source | Duration | Completed
 [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | MIT | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT |
 
-## Java w/Theory
+## Java with Theory
 Courses | School | Duration 
 :-- | :--: | :--: 
 [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | Stanford | 28 lectures
