@@ -1,7 +1,17 @@
+## Probability and Statistics   
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Statistics](https://www.youtube.com/watch?v=XDqTDEZQZp4) | 365 Data Science Courses | one hour | |
+[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
+[Discrete Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN) | jbstatistics | 1.5 hours | | 
+[Continuous Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0) | jbstatistics | 1 hour | | 
+[Introduction to the Normal Distribution](https://www.youtube.com/watch?v=hgtMWR3TFnY) | Khan Academy | 25 minutes | |
+
+
+
 ## Mathematics  
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced | |
 [Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced | |
@@ -11,8 +21,30 @@ Courses | Source | Duration | Completed
 
 Additional support:
 
-Linear Algebra see [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s) and [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+FLinear Algebra: [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s),
+[MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-Calculus see [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s)
+Calculus: [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&t=0s)
 
-Multivariable Calculus see [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+Multivariable Calculus: [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+
+
+
+## Statistics 
+[zedstatistics on YouTube](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
+
+[Statistics How To](https://www.statisticshowto.com/)
+
+[Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
+
+[An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/)
+
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
+## Mathematics 
+[Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
+
+[Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
+
+
