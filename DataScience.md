@@ -35,7 +35,10 @@ Exercises
 
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
-
+## Math Review 
+Courses | Source | Duration | Completed 
+:-- | :--: | :--: | :--: 
+[https://www.coursera.org/specializations/mathematics-machine-learning](Mathematics for Machine Learning Specilization) | Imperial College London | 4 months | |
 
 ## Python
 Courses | Source | Duration | Completed 
@@ -46,7 +49,8 @@ Courses | Source | Duration | Completed
 [Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
 [SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
-[Data Analysis with Pyton for Excel Users](https://www.youtube.com/watch?v=WcDaZ67TVRo&t=11396s) | freecodecamp | 4 hours | |
+[Data Analysis with Python for Excel Users](https://www.youtube.com/watch?v=WcDaZ67TVRo&t=11396s) | freecodecamp | 4 hours | |
+[Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms#faq) | UC San Diego | 8 months | |
 
 Exercises and Resources 
 
