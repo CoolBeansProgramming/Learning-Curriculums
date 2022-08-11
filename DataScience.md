@@ -38,7 +38,7 @@ Exercises
 ## Math Review 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
-[Mathematics for Machine Learning Specilization]([Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning)) | Imperial College London | 4 months | |
+[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
 
 ## Python
 Courses | Source | Duration | Completed 
