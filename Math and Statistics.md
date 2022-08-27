@@ -6,7 +6,7 @@ Courses | Source | Duration | Completed
 [Discrete Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN) | jbstatistics | 1.5 hours | | 
 [Continuous Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0) | jbstatistics | 1 hour | | 
 [Introduction to the Normal Distribution](https://www.youtube.com/watch?v=hgtMWR3TFnY) | Khan Academy | 25 minutes | |
-
+[Advanced Statistics for Data Science Specilization](https://www.coursera.org/specializations/advanced-statistics-data-science?#courses) | Coursera | 5 months | |
 
 
 ## Mathematics  
