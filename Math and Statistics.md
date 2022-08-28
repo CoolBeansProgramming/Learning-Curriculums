@@ -1,7 +1,7 @@
 ## Probability and Statistics   
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Statistics](https://www.youtube.com/watch?v=XDqTDEZQZp4) | 365 Data Science Courses | one hour | |
+[Teach me statistics in half an hour](https://www.youtube.com/watch?v=kyjlxsLW1Is) | zedstatistics | 40 minutes| |
 [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
 [Discrete Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsNIHP5cz37oOPZx0JKyNszN) | jbstatistics | 1.5 hours | | 
 [Continuous Probability Distributions](https://www.youtube.com/playlist?list=PLvxOuBpazmsPDZGwqhhjE3KkLWnTD34R0) | jbstatistics | 1 hour | | 
