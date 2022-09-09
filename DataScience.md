@@ -5,7 +5,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
 [Excel Skills for Data Analytics and Visualization Specialization](https://www.coursera.org/specializations/excel-data-analytics-visualization#courses) | Macquaire University | 4 months | |
-[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquaire University | 4 months | |
 [Microsoft Power BI for Beginners](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | - | | 
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
 
@@ -58,7 +57,7 @@ Exercises and Resources
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
-
+[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
 
 ## Machine Learning with Python 
 Courses | Source | Duration | Completed
@@ -130,6 +129,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) | ritvikmath | self-paced | |
 [Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
+[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquaire University | 4 months | |
 [STAT 510: Applied Time Sreies Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) | Duke | self-paced | |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
