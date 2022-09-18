@@ -48,7 +48,7 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
-[Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms) | UC San Diego | 8 months | |
+
 
 Exercises and Resources 
 
