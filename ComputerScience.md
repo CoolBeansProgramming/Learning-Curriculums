@@ -11,6 +11,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
+[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [CS50 Python](https://cs50.harvard.edu/python/2022/weeks/0/) | Harvard | 8 weeks | |
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
