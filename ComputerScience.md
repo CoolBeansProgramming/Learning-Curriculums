@@ -21,7 +21,6 @@ Courses | Source | Duration | Completed
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | |
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms) | Stanford | 17 hours
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms) | Stanford | 15 hours
