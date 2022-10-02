@@ -22,12 +22,13 @@ Courses | Source | Duration | Completed
 [Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
 [ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | X | 
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
-[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
-[PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
 [PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY) | Derek Banas | 4 hours | |
+[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
-Exercises
+Resources and Exercises
+
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 [PostgreSQL Exercises](https://pgexercises.com/)
 
