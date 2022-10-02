@@ -142,7 +142,11 @@ Dimensionality Reduction:
 Other topics: 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html),
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
+)
 
+Resources 
+
+[Macine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=8350s)
 
 ## Linux, Git, and Other Topics 
 Courses | School | Duration | Completed
