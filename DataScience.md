@@ -157,17 +157,18 @@ Courses | School | Duration | Completed
 
 
 ## Java with Theory
-Courses | School | Duration 
-:-- | :--: | :--: 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy | 17 hours | |
+[Java Programming](https://java-programming.mooc.fi/part-8) | University of Helsinki  | 14 lectures | |
 [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | Stanford | 28 lectures
-[Java Programming](https://java-programming.mooc.fi/part-8) | University of Helsinki  | 14 lectures
-[Programming in Java](https://introcs.cs.princeton.edu/java/home/) | Princeton | -
-[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy | 17 hours
-[Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours
-[Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours 
+[Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
+[Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
 
-For additional resources, see Princeton's [Algorithms](https://algs4.cs.princeton.edu/home/) and [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/).
-
+Resources
+[Algorithms](https://algs4.cs.princeton.edu/home/)
+[Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
+[An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
 
@@ -180,10 +181,11 @@ Courses | Source | Duration | Completed
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
-[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
-Resources
+[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | |
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced | |
 
+
+Resources
 [David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
 
 [Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
@@ -245,7 +247,7 @@ Courses | Source | Duration | Completed
 [Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
 
 
-## Data Sets and Projects 
+## Data Sets, Projects, and Challenges 
 [Kaggle](https://www.kaggle.com/)
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
