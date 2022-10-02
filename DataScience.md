@@ -64,8 +64,12 @@ Courses | Source | Duration | Completed
 Resources 
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+
 
 
 ## Data Structures and Algorithms with Python
@@ -78,15 +82,17 @@ Courses | Source | Duration | Completed
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures?specialization=algorithms) | Stanford | 15 hours
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | Stanford | 15 hours
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | Stanford | 14 hours
-[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | | 
 [Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms) | UC San Diego | 8 months | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | | |
 
 
 
-Resources 
+Resources and Exercises
+
+[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | | 
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+
 [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
 
