@@ -34,7 +34,7 @@ Resources and Exercises
 
 [HackerRank SQL](https://www.hackerrank.com/domains/sql)
 
-[SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
+
 
 ## Computer Science Foundation
 Courses | Source | Duration | Completed 
@@ -64,9 +64,9 @@ Courses | Source | Duration | Completed
 
 Resources 
 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
@@ -160,7 +160,7 @@ Courses | School | Duration | Completed
 
 
 
-## Java with Theory
+## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy | 17 hours | |
@@ -183,7 +183,7 @@ Resources
 
 
 
-## R w/Machine Learning
+## Machine Learning with R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
