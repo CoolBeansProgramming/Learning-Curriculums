@@ -21,4 +21,4 @@ Courses | Source | Duration | Completed
 
 
 ## Resources 
-[Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured)
+[Fun Fun Function](https://www.youtube.com/c/funfunfunction/playlists)
