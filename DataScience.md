@@ -24,6 +24,7 @@ Courses | Source | Duration | Completed
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | PostgreSQL Tutorial | self-paced | | 
+[PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY) | Derek Banas | 4 hours | |
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
 
 Exercises
@@ -60,6 +61,7 @@ Courses | Source | Duration | Completed
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 
 
+Resources 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
@@ -95,21 +97,15 @@ Exercises and Resources
 
 
 
-## Theory 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
-[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+
 
 
 
 ## Machine Learning with Python 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
+
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
@@ -146,7 +142,7 @@ Other topics:
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
 
 
-## Linux and Git
+## Linux, Git, and Other Topics 
 Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
@@ -154,6 +150,9 @@ Courses | School | Duration | Completed
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
 [What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | | | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 
 
 
