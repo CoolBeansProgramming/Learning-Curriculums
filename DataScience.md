@@ -93,6 +93,15 @@ Exercises and Resources
 
 
 
+## Theory 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
+[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 
 
 
@@ -135,6 +144,13 @@ Other topics:
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
 
 
+## Linux and Git
+Courses | School | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
+[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
+
 ## Java with Theory
 Courses | School | Duration 
 :-- | :--: | :--: 
@@ -148,32 +164,18 @@ Courses | School | Duration
 For additional resources, see Princeton's [Algorithms](https://algs4.cs.princeton.edu/home/) and [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/).
 
 
-## Theory 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
-[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
-
-## Linux and Git
-Courses | School | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
-[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 
 
 
 
-## R
+## R w/Machine Learning
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
-
+[Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
+[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
 Resources
 
 [David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
@@ -185,12 +187,8 @@ Resources
 [Advanced R](https://adv-r.hadley.nz/)
 
 
-## Machine Learning with R 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
-[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | 
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced |
+
+
 
 
 ## Time Series 
@@ -236,8 +234,7 @@ Courses | Source | Duration | Completed
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
 
-## Data Visualizations 
-[storytelling with data](https://www.storytellingwithdata.com/) 
+
 
 
 ## Python Resources 
@@ -248,12 +245,7 @@ Courses | Source | Duration | Completed
 [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
 
 
-## Other Topics 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES74XBRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Georgia Tech | 2 months | |
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | | |
-[An Introduction to Comptuer Networks](http://intronetworks.cs.luc.edu/) | Loyola | | |
+
 
 
 
@@ -274,7 +266,7 @@ Courses | Source | Duration | Completed
 
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
-[Learn Python](https://www.learnpython.org/) 
+
 
 
 
@@ -312,7 +304,7 @@ Multivariable Calculus: [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-mu
 
 
 
-## Statistics 
+## Statistics Resources
 [zedstatistics on YouTube](https://www.youtube.com/channel/UC6AVa0vSrCpuskzGDDKz_EQ)
 
 [Statistics How To](https://www.statisticshowto.com/)
@@ -324,7 +316,7 @@ Multivariable Calculus: [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-mu
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
-## Mathematics 
+## Mathematics Resources
 [Introduction to Methods of Applied Mathematics](https://physics.bgu.ac.il/~gedalin/Teaching/Mater/am.pdf)
 
 [Mathematical Tools for Physics](http://www.physics.miami.edu/~nearing/mathmethods/mathematical_methods-one.pdf)
