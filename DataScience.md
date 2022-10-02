@@ -74,6 +74,8 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
+[Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
+[Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=elOqnDu5AxA&ranSiteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&siteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=elOqnDu5AxA) | Andrew Ng | 5 months | |
 
 Performance Measures: 
 [Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9),
@@ -196,6 +198,7 @@ Courses | School | Duration
 :-- | :--: | :--: 
 [CS50](https://cs50.harvard.edu/x/2021/) | Harvard | 12 lectures | |
 [Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) | freecodecamp | 75 minutes | |
+[Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles) | Khan Academy | self-paced | |
 
 ## Python
 Courses | Source | Duration | Completed
