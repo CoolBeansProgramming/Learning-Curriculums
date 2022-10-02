@@ -1,6 +1,6 @@
 # Learning Roadmap 
 
-I have complied information from across the web and other roadmaps to create my own that best fits my needs and have included some courses to review the main topics most needed in data and computer science: mathematics and statistics.
+I have complied information from across the web and other roadmaps to create my own that best fits my needs and have included some courses to review the main topics most needed in data and computer science including a section on mathematics and statistics.
 
 I first focus on learning Python for this road map as that seems to be the mostly popular language to analyze data and create machine learning models. I also have experience using R before and wanted to learn more Python instead. The Time Series section is also large because I have no experience creating time series models. 
 
