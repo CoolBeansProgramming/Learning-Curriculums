@@ -8,11 +8,12 @@ Courses | Source | Duration | Completed
 [Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 2 weeks | |
 [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) | Udacity | 3 weeks | |
 
-## The Odin Project 
+## Complete Courses 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
-
+[Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
+[The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
 
 
 ## Projects 
