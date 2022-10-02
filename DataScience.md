@@ -35,11 +35,12 @@ Exercises
 [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Computer Science Foundation
-Courses | School | Duration 
+Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
 [Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) | freecodecamp | 75 minutes | |
 [Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles) | Khan Academy | self-paced | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
+
 
 
 ## Python
@@ -70,16 +71,6 @@ Courses | Source | Duration | Completed
 
 
 
-## Linux
-Courses | School | Duration 
-:-- | :--: | :--:
-[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week
-
-## Git 
-Courses | School | Duration 
-:-- | :--: | :--:
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | 
-[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book 
 
 
 
@@ -121,6 +112,12 @@ Courses | Source | Duration | Completed
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month
 [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) | MIT | -
 
+## Linux and Git
+Courses | School | Duration 
+:-- | :--: | :--: | :--: 
+[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
+[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 
 ## Machine Learning with Python 
 Courses | Source | Duration | Completed
