@@ -18,3 +18,7 @@ Courses | Source | Duration | Completed
 ## Projects 
 
 [2D Game Using JavaScript, HTML, and CSS](https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/)
+
+
+## Resources 
+[Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured)
