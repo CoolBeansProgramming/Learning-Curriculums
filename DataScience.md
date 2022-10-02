@@ -45,7 +45,7 @@ Courses | Source | Duration | Completed
 
 
 ## Python
-Courses | Source | Duration | Completed 
+Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
@@ -75,7 +75,7 @@ Resources
 ## Data Structures and Algorithms with Python
 
 
-Courses | Source | Duration | Completed 
+Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer?specialization=algorithms) | Stanford | 17 hours
@@ -83,7 +83,7 @@ Courses | Source | Duration | Completed
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy?specialization=algorithms) | Stanford | 15 hours
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | Stanford | 14 hours
 [Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms) | UC San Diego | 8 months | |
-[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | | |
+[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
 
 
 
@@ -151,7 +151,7 @@ Courses | School | Duration | Completed
 [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self-paced| |
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
-[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | | | |
+[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | medium | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
@@ -171,8 +171,11 @@ Courses | Source | Duration | Completed
 Resources
 
 [Algorithms](https://algs4.cs.princeton.edu/home/)
+
 [Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
+
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
+
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
 
