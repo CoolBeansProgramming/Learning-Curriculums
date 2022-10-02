@@ -105,7 +105,6 @@ Exercises and Resources
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-
 [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
