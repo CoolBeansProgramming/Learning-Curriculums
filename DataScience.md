@@ -39,13 +39,14 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) | freecodecamp | 75 minutes | |
 [Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles) | Khan Academy | self-paced | |
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
+
 
 
 
 ## Python
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
+[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
 [Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
 [Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
@@ -56,17 +57,16 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
-
-
-## Python
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
-[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
-[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
-[CS50 Python](https://cs50.harvard.edu/python/2022/weeks/0/) | Harvard | 8 weeks | |
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
-[Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
+
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+
+[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
 
 ## Data Structures and Algorithms with Python
 
@@ -84,11 +84,13 @@ Courses | Source | Duration | Completed
 [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | MIT | | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | | |
 
+
+
 Exercises and Resources 
 
 [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
 
 
 
@@ -150,6 +152,11 @@ Courses | School | Duration | Completed
 [Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
 [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
+[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | | | |
+
+
+
 
 ## Java with Theory
 Courses | School | Duration 
@@ -163,6 +170,7 @@ Courses | School | Duration
 
 For additional resources, see Princeton's [Algorithms](https://algs4.cs.princeton.edu/home/) and [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/).
 
+[Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
 
 
@@ -205,11 +213,19 @@ Resources
 
 [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 
+
+
+
+
 ## Data Mining 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
+
+
+
+
 
 
 ## Domain Specific: Finance 
@@ -219,6 +235,9 @@ Courses | Source | Duration | Completed
 [Nick DeRobertis’ Financial Modeling](https://nickderobertis.github.io/fin-model-course/) | DeRobertis | self-paced | |
 [DeRobertis’ Corresponding Financial Modeling Videos](https://www.youtube.com/watch?v=xL0Wo14Hqbk&list=PLACKX9tziAQJSk4YSGN0N2II985HTIuHD) | DeRobertis | self-paced | |
 [Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks | |
+
+
+
 
 
 # Useful Links
@@ -233,38 +252,16 @@ Courses | Source | Duration | Completed
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
 
-
-
-
-
-## Python Resources 
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
-
-[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
-
-
-
-
-
-
-
-## Useful Links
-
-[Project Euler](https://projecteuler.net/)
-
-[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27)
-
 [5 Essential Data Science Projects](https://www.youtube.com/watch?v=BBDiadC8BvE)
-
-[Programing, Games, More](https://www.youtube.com/c/KGMIT/featured)
-
-[Statistics Resources](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 [Six Quick Python Projects](https://www.youtube.com/watch?v=SqvVm3QiQVk) 
 
-[Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
+[Project Euler](https://projecteuler.net/)
+
+
+
+
+
 
 
 
@@ -314,6 +311,8 @@ Multivariable Calculus: [MIT](https://ocw.mit.edu/courses/mathematics/18-02sc-mu
 [An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
 
 
 ## Mathematics Resources
