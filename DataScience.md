@@ -62,17 +62,14 @@ Courses | Source | Duration | Completed
 
 
 Resources 
+
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
-
-[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 
 ## Data Structures and Algorithms with Python
 
-[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
@@ -83,13 +80,13 @@ Courses | Source | Duration | Completed
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete?specialization=algorithms) | Stanford | 14 hours
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Princeton | online book | | 
 [Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms) | UC San Diego | 8 months | |
-[Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm) | MIT | | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | | |
 
 
 
-Exercises and Resources 
+Resources 
 
+[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
 
@@ -105,7 +102,7 @@ Exercises and Resources
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | Stanford | 2 months | |
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Andrew Ng | 2 months | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
 [Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=elOqnDu5AxA&ranSiteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&siteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=elOqnDu5AxA) | Andrew Ng | 5 months | |
@@ -145,7 +142,7 @@ Other topics:
 Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self-paced| |
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
 [What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | | | |
@@ -166,6 +163,7 @@ Courses | Source | Duration | Completed
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
 
 Resources
+
 [Algorithms](https://algs4.cs.princeton.edu/home/)
 [Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
@@ -186,6 +184,7 @@ Courses | Source | Duration | Completed
 
 
 Resources
+
 [David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
 
 [Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
@@ -228,7 +227,7 @@ Courses | Source | Duration | Completed
 
 
 
-## Domain Specific: Finance 
+## Finance 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Business and Financial Modeling Specilization](https://www.coursera.org/specializations/wharton-business-financial-modeling) | Wharton | 6 months | | 
