@@ -1,6 +1,6 @@
 # Data Science Learning Roadmap  
 
-## Excel, Power BI, and Tableau 
+## Excel, Tableau, and Power BI
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
@@ -68,14 +68,6 @@ Courses | Source | Duration | Completed
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 [Introduction to Programming Python](https://introcs.cs.princeton.edu/python/home/) | Princeton | online book | |
 
-
-
-
-
-
-
-
-
 ## Data Structures and Algorithms with Python
 
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
@@ -102,22 +94,7 @@ Exercises and Resources
 
 
 
-## Theory 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
-[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks 
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month
-[Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) | MIT | -
 
-## Linux and Git
-Courses | School | Duration 
-:-- | :--: | :--: | :--: 
-[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
-[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 
 ## Machine Learning with Python 
 Courses | Source | Duration | Completed
@@ -169,6 +146,26 @@ Courses | School | Duration
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours 
 
 For additional resources, see Princeton's [Algorithms](https://algs4.cs.princeton.edu/home/) and [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/).
+
+
+## Theory 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4) | [MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | 9 weeks | |
+[Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+
+## Linux and Git
+Courses | School | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self=paced| |
+[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
+
+
 
 
 ## R
@@ -251,13 +248,12 @@ Courses | Source | Duration | Completed
 [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) 
 
 
-## Systems 
-Courses | School | Duration 
-:-- | :--: | :--:
-
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES74XBRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Georgia Tech | 2 months
-[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | -
-[An Introduction to Comptuer Networks](http://intronetworks.cs.luc.edu/) | Loyola | -
+## Other Topics 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES74XBRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Georgia Tech | 2 months | |
+[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG) | Stanford | | |
+[An Introduction to Comptuer Networks](http://intronetworks.cs.luc.edu/) | Loyola | | |
 
 
 
