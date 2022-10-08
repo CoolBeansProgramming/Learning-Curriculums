@@ -70,6 +70,7 @@ Resources
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
+[Data Analysis with Python](https://dap-21.mooc.fi/)
 
 
 
