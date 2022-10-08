@@ -95,7 +95,7 @@ Resources and Exercises
 
 [Learning Scientific Programming with Python](https://scipython.com/book/) 
 
-
+[How To Improve Your Problem-Solving Skills As A Programmer](https://towardsdatascience.com/hands-on-tutorial-how-to-improve-your-problem-solving-skills-as-a-programmer-83f0a8d1082f)
 
 
 
