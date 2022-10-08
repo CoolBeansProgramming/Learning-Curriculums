@@ -48,30 +48,24 @@ Courses | Source | Duration | Completed
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
-[Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
-[NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
-[Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
-[Python Plotting With Matplotlib](https://realpython.com/python-matplotlib-guide/)| Real Python | self-paced | |
-[Seaborn user guide and tutorial](https://seaborn.pydata.org/tutorial.html) | Seaborn | self-paced | |
-[SciPy User Guide](https://docs.scipy.org/doc/scipy/reference/tutorial/) | SciPy | self-paced | |
+[Data Analysis with Python](https://dap-21.mooc.fi/) | University of Helinski | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
 [Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
 [Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 
+Guides | Resources 
+:-- | :--:
+[NumPy](https://realpython.com/numpy-tutorial/) | [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
+[Pandas](https://realpython.com/learning-paths/pandas-data-science/) | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Matplotlib](https://realpython.com/python-matplotlib-guide/) | [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+[Seaborn](https://seaborn.pydata.org/tutorial.html) | [Learn Python](https://www.learnpython.org/)
+[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) | 
 
-Resources 
 
-[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
-
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-
-[Data Analysis with Python](https://dap-21.mooc.fi/)
 
 
 
@@ -111,7 +105,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Andrew Ng | 2 months | |
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | book | |
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | self-paced | |
 [Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=elOqnDu5AxA&ranSiteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&siteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=elOqnDu5AxA) | Andrew Ng | 5 months | |
 
