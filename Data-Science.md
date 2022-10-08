@@ -24,7 +24,7 @@ Courses | Source | Duration | Completed
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY) | Derek Banas | 4 hours | |
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198?irclickid=zHeTDDR5sxyLRkFwUx0Mo3cXUkES4T1lRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&utm_campaign=_gtc_www_classcentral_com_&utm_content=&adid=788805) | udacity | 4 weeks | |
-[Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) | freecodecamp | 8 hours | |
+[Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | freecodecamp | 8 hours | |
 
 Resources and Exercises
 
