@@ -23,3 +23,4 @@ Courses | Source | Duration | Completed
 
 ## Resources 
 [Fun Fun Function](https://www.youtube.com/c/funfunfunction/playlists)
+[CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/)
