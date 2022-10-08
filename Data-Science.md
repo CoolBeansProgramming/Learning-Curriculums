@@ -48,6 +48,7 @@ Courses | Source | Duration | Completed
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
 [Learn Python](https://www.learnpython.org/) | learnpython | self-paced | |
 [NumPy Tutorial](https://realpython.com/numpy-tutorial/) | Real Python | self-paced | |
 [Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/) | Real Python | self-paced | |
