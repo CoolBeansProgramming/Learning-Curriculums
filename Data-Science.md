@@ -29,6 +29,8 @@ Courses | Source | Duration | Completed
 
 Resources and Exercises
 
+[DVD Rental database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 [PostgreSQL Exercises](https://pgexercises.com/)
