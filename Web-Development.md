@@ -28,4 +28,5 @@ Courses | Source | Duration | Completed
 
 [25 Beginner JavaScript Challenges in 2 hours](https://www.youtube.com/watch?v=sqRk0Ly66Ps)
 
-[Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
+[Khan Academy: JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
+[Khan Academy: HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
