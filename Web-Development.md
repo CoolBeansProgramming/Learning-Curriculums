@@ -27,3 +27,5 @@ Courses | Source | Duration | Completed
 [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/)
 
 [25 Beginner JavaScript Challenges in 2 hours](https://www.youtube.com/watch?v=sqRk0Ly66Ps)
+
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming)
