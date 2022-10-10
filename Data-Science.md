@@ -103,16 +103,22 @@ Resources and Exercises
 
 
 
-## Machine Learning with Python 
+## Machine Learning 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Andrew Ng | 2 months | |
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
+[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
+[Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
+[Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) |  Geron | self-paced | |
-[Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Andrew Ng | 4 months | |
-[Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=elOqnDu5AxA&ranSiteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&siteID=elOqnDu5AxA-tqj64qlK4WNFu4aB4lO2aA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=elOqnDu5AxA) | Andrew Ng | 5 months | |
+[Practical Deep Learning for Coders](https://course.fast.ai/) | fast.ai | self-paced | |
+[Practical Data Ethics](https://ethics.fast.ai/) | fast.ai | self-paced | |
+[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) | fast.ai | self-paced | |
+[Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | deeplearning.ai | 4 months | |
+[Practical Data Science on the AWS Cloud Specilization](https://www.coursera.org/specializations/practical-data-science?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210519-pds-1-deeplearning-ai-page-pds-launch) | deeplearning.ai | 3 months | |
 
-Performance Measures: 
+### Performance Measures: 
 [Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9),
 [Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
 
@@ -141,11 +147,16 @@ Dimensionality Reduction:
 Other topics: 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html),
 [Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
-)
 
-Resources 
+
+### Resources 
+
+[deeplearning.ai](https://www.deeplearning.ai/)
+
+[fast.ai](https://www.fast.ai/) 
 
 [Macine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=8350s)
+
 
 ## Linux, Git, and Other Topics 
 Courses | School | Duration | Completed
