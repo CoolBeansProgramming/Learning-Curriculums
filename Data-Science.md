@@ -184,7 +184,7 @@ Courses | Source | Duration | Completed
 
 Resources
 
-[Algorithms](https://algs4.cs.princeton.edu/home/)
+[Algorithms Part 1 and 2 Book](https://algs4.cs.princeton.edu/home/)
 
 [Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
 
