@@ -32,3 +32,5 @@ Courses | Source | Duration | Completed
 [Khan Academy: JavaScript](https://www.khanacademy.org/computing/computer-programming/programming)
 
 [Khan Academy: HTML and CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+[Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
