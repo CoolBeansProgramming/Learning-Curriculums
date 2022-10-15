@@ -42,7 +42,6 @@ Resources and Exercises
 ## Computer Science Foundation
 Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
-[Computer Science Basics](https://www.youtube.com/playlist?app=desktop&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy) | freecodecamp | 75 minutes | |
 [Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles) | Khan Academy | self-paced | |
 
 
