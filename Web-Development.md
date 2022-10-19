@@ -13,9 +13,7 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | freecodecamp | 300 hours | X |
-[Learn HTML](https://www.youtube.com/watch?v=kUMe1FH4CHE) | freecodecamp | 4 hours | |
-[CSS Tutorial](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=770s) | freecodecamp | 11 hours | |
-[Learn HTML & CSS with Projects & Challenges](https://www.youtube.com/watch?v=a_iQb1lnAEQ) | freecodecamp | 5.5 hours | |
+[YouTube Coding Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI) | freecodecamp | 12 hours | |
 [Portfolio Website](https://www.youtube.com/watch?v=xV7S8BhIeBo&t=3983s) | freecodecamp | 3.5 hours | |
 
 
