@@ -52,6 +52,9 @@ Courses | Source | Duration | Completed
 
 
 ## Resources 
+
+[Full Stack Web Developer Roadmap Series](https://www.youtube.com/watch?v=ZZJT5uskuvI&list=PLYQSCk-qyTW37zDPzcAyzCsnypFQrhUcq)
+
 [Fun Fun Function](https://www.youtube.com/c/funfunfunction/playlists)
 
 [CSS Selectors Cheat Sheet](https://www.freecodecamp.org/news/css-selectors-cheat-sheet-for-beginners/)
