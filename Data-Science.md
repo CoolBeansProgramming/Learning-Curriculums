@@ -50,14 +50,15 @@ Courses | Source | Duration | Completed
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
+[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
 [Data Analysis with Python](https://dap-21.mooc.fi/) | University of Helinski | self-paced | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
 [Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
-[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
-[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
-[Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
+
 
 Guides | Resources 
 :-- | :--:
