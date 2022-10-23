@@ -23,6 +23,7 @@ Courses | Source | Duration | Completed
 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | freecodecamp | 300 hours | X |
 [Introduction to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) | Udacity | 2 weeks | X |
 [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) | Udacity | 3 weeks | |
+[Es6](https://www.udacity.com/course/es6-javascript-improved--ud356) | Udacity | 4 weeks | |
 [Data Structures and Algorithms in JavaScript](https://www.youtube.com/watch?v=t2CEgPsws3U) | freecodecamp | 2 hours | |
 
 ## JavaScript: Front End Libraries  
