@@ -50,10 +50,9 @@ Courses | Source | Duration | Completed
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Python Programming MOOC](https://programming-22.mooc.fi/) | University of Helinski | self-paced | |
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
-[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
-[Data Analysis with Python](https://dap-21.mooc.fi/) | University of Helinski | self-paced | |
+[Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 4 months | |
+[Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) | Udacity | 6 weeks | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
 [Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
@@ -66,7 +65,7 @@ Guides | Resources
 [Pandas](https://realpython.com/learning-paths/pandas-data-science/) | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 [Matplotlib](https://realpython.com/python-matplotlib-guide/) | [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 [Seaborn](https://seaborn.pydata.org/tutorial.html) | [Learn Python](https://www.learnpython.org/)
-[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) | 
+[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) | [Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw)
 
 
 
