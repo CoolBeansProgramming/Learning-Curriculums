@@ -52,6 +52,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 4 months | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) | Udacity | 6 weeks | |
 [Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
 [Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
