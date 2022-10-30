@@ -13,7 +13,7 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | freecodecamp | 300 hours | X |
-[YouTube Coding Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI) | freecodecamp | 12 hours | |
+[YouTube Coding Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI) | freecodecamp | 12 hours | X |
 [Portfolio Website](https://www.youtube.com/watch?v=xV7S8BhIeBo&t=3983s) | freecodecamp | 3.5 hours | |
 
 
@@ -33,7 +33,7 @@ Courses | Source | Duration | Completed
 [React Course](https://www.youtube.com/watch?v=bMknfKXIFA8) | freecodecamp | 12 hours | |
 [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) | freecodecamp | self-paced | |
 [Data Visualization with D3](https://www.youtube.com/watch?v=xkBheRZTkaw&t=46637s) | freecodecamp | 13 hours | |
-[Next Course](https://www.youtube.com/watch?v=1WmNXEVia8I) | freecodecamp | 2.5 hours | |
+[Next.js Course](https://www.youtube.com/watch?v=1WmNXEVia8I) | freecodecamp | 2.5 hours | |
 
 ## Backend
 Courses | Source | Duration | Completed
