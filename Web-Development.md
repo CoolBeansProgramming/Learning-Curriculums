@@ -1,20 +1,12 @@
 # Web-Development 
 
 
-## Complete Courses 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
-[Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
-[The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
-
-
 ## HTML and CSS 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | freecodecamp | 300 hours | X |
 [YouTube Coding Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI) | freecodecamp | 12 hours | X |
-[Portfolio Website](https://www.youtube.com/watch?v=xV7S8BhIeBo&t=3983s) | freecodecamp | 3.5 hours | |
+
 
 
 ## JavaScript 
@@ -25,6 +17,13 @@ Courses | Source | Duration | Completed
 [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) | Udacity | 3 weeks | X |
 [ES6](https://www.udacity.com/course/es6-javascript-improved--ud356) | Udacity | 4 weeks | |
 [Data Structures and Algorithms in JavaScript](https://www.youtube.com/watch?v=t2CEgPsws3U) | freecodecamp | 2 hours | |
+
+## Complete Courses 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
+[Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
+[The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
 
 ## JavaScript: Front End Libraries  
 Courses | Source | Duration | Completed
