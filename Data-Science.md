@@ -173,7 +173,8 @@ Courses | School | Duration | Completed
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy | 17 hours | |
+[Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
+[Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
 [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki  | 14 lectures | |
 [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | Stanford | 28 lectures
 [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
