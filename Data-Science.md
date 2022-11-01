@@ -73,7 +73,7 @@ Guides | Resources
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Algorithms](https://www.khanacademy.org/computing/computer-science#algorithms) | Khan Academy | self-paced | |
+[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | Khan Academy | self-paced | |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
 [*Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [*Data Structures and Algorithms Specilization](https://www.coursera.org/specializations/data-structures-algorithms) | UC San Diego | 8 months | |
