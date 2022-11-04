@@ -33,6 +33,7 @@ Courses | Source | Duration | Completed
 [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) | freecodecamp | self-paced | |
 [Data Visualization with D3](https://www.youtube.com/watch?v=xkBheRZTkaw&t=46637s) | freecodecamp | 13 hours | |
 [Next.js Course](https://www.youtube.com/watch?v=1WmNXEVia8I) | freecodecamp | 2.5 hours | |
+[How to Use PyScript](https://www.freecodecamp.org/news/pyscript-python-front-end-framework/) | freecodecamp | self-paced | |
 
 ## Backend
 Courses | Source | Duration | Completed
