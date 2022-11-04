@@ -40,7 +40,7 @@ Courses | Source | Duration | Completed
 [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | freecodecamp | self-paced | |
 [Node and Express Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | freecodecamp | 8 hours | |
 [Python Backend Web Development w/Django](https://www.youtube.com/watch?v=jBzwzrDvZ180) | freecodecamp | 10 hours | |
-
+[Full Stack Python](https://www.fullstackpython.com/) | Full Stack Python | self-paced | |
 
 
 
