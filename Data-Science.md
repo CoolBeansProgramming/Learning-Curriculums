@@ -47,7 +47,7 @@ Resources and Exercises
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | |
+[Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [*Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | |
 [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) | Udacity | 6 weeks | |
