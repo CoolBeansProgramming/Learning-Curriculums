@@ -115,6 +115,7 @@ Courses | Source | Duration | Completed
 [Machine Learning Engineering for Production (MLOps) Specilization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | deeplearning.ai | 4 months | |
 [Practical Data Science on the AWS Cloud Specilization](https://www.coursera.org/specializations/practical-data-science?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210519-pds-1-deeplearning-ai-page-pds-launch) | deeplearning.ai | 3 months | |
 
+
 ### Performance Measures: 
 [Accuracy, Precision, Recall or F1?](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9),
 [Understanding the Confusion Matrix from Scikit learn](https://towardsdatascience.com/understanding-the-confusion-matrix-from-scikit-learn-c51d88929c79)
@@ -166,6 +167,8 @@ Courses | School | Duration | Completed
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+[Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
+[Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
 
 
 
