@@ -76,7 +76,9 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | Khan Academy | self-paced | |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | |
+[Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0) | freecodecamp | 5 hours | |
 [*Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
+[*Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
 [*Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
 
 
