@@ -54,9 +54,9 @@ Courses | Source | Duration | Completed
 [Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
 [Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
-[Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
-[Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | |
+[*Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
+[*Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+[*Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | |
 
 
 Guides | Resources 
