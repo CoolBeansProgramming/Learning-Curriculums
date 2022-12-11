@@ -56,7 +56,7 @@ Courses | Source | Duration | Completed
 [Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
 [*Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [*Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
-[*Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | |
+
 
 
 Guides | Resources 
@@ -108,6 +108,7 @@ Courses | Source | Duration | Completed
 [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 weeks | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | |
+[Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | |
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
