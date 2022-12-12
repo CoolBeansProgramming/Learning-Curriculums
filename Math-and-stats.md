@@ -21,6 +21,8 @@ Courses | Source | Duration | Completed
 
 Additional support:
 
+Mathematics Resource: [Wolfram MathWorld](https://mathworld.wolfram.com/)
+
 Linear Algebra: [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&t=0s),
 [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
