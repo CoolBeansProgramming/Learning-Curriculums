@@ -26,6 +26,8 @@ Courses | Source | Duration | Completed
 [The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
 [Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
 [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
+[CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)| Harvard | self-paced | |
+
 
 ## JavaScript: Front End Libraries  
 Courses | Source | Duration | Completed
