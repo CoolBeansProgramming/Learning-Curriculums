@@ -49,15 +49,17 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | X |
+[Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
+[Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+
+## Python for Data Analysis 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
 [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) | Udacity | 6 weeks | X | 
-[Python Statistics](https://realpython.com/python-statistics/) | Real Python | self-paced | |
-[Python Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/) | Real Python | self-paced | |
-[Python Pandas Tutorial: Cleaning Data](https://www.youtube.com/watch?v=KdmPHEnPJPs) | Corey Schafer | 30 minutes | |
-[Data Cleaning in Python](https://www.youtube.com/watch?v=vPaXbA_xQFQ) | JCharisTech | 18 minutes | |
-[*Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
-[*Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
-
-
+[Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | |
+[Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) | Corey Schafer | 3.5 hours | |
+[Learning Statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) | Weed | self-paced | |
 
 Guides | Resources 
 :-- | :--:
