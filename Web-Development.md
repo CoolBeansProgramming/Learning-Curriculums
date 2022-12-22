@@ -8,7 +8,7 @@ Courses | Source | Duration | Completed
 [YouTube Coding Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI) | freecodecamp | 12 hours | X |
 [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) | Udacity | 3 weeks | |
 [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) | Udacity | 2 weeks | |
-[Introduction To Responsive Design](https://www.youtube.com/watch?v=srvUrASNj0s) | Udacity | 4 hours | |
+[Introduction To Responsive Design](https://www.youtube.com/watch?v=srvUrASNj0s) | Free Code Camp | 4 hours | |
 
 
 ## JavaScript 
