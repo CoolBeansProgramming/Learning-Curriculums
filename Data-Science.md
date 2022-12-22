@@ -27,7 +27,7 @@ Courses | Source | Duration | Completed
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | udacity | 4 weeks | X |
 [Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | freecodecamp | 8 hours | X |
 
-Resources and Exercises
+Resources
 
 [DVD Rental database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
@@ -41,33 +41,40 @@ Resources and Exercises
 
 
 
-
-
-
 ## Python
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | X |
 [Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+
+Resources 
+
+[Learn Python](https://www.learnpython.org/)
 
 ## Python for Data Analysis 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) | Udacity | 6 weeks | X | 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | |
 [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) | Corey Schafer | 3.5 hours | |
 [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) | Weed | self-paced | |
 
-Guides | Resources 
-:-- | :--:
-[NumPy](https://realpython.com/numpy-tutorial/) | [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
-[Pandas](https://realpython.com/learning-paths/pandas-data-science/) | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-[Matplotlib](https://realpython.com/python-matplotlib-guide/) | [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-[Seaborn](https://seaborn.pydata.org/tutorial.html) | [Learn Python](https://www.learnpython.org/)
-[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) | [Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw)
+Resources 
+
+[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+[Matplotlib](https://realpython.com/python-matplotlib-guide/)
+
+[Seaborn](https://seaborn.pydata.org/tutorial.html)
+
+[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) 
 
 
 
@@ -80,9 +87,9 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
-[*Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
-[*Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
-[*Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
+[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
+[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
 
 
 
