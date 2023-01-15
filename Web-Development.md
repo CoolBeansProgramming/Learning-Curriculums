@@ -23,6 +23,7 @@ Courses | Source | Duration | Completed
 ## Complete Courses 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Web Development for Beginners ](https://github.com/microsoft/Web-Dev-For-Beginners) | Microsoft | |
 [The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
 [Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
 [The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
