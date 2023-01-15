@@ -61,6 +61,7 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [Data Visualization with Python](https://www.datacamp.com/tracks/data-visualization-with-python) | Data Camp | 16 hours | |
 [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) | Weed | self-paced | |
+[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 
 Resources 
 
