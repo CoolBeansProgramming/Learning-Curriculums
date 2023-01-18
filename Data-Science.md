@@ -9,12 +9,6 @@ Courses | Source | Duration | Completed
 [Power BI Tutorial](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | 2.5 hours | X |
 
 
-Resources
-
-[Kevin Stratvert](https://www.youtube.com/channel/UCfJT_eYDTmDE-ovKaxVE1ig)
-
-[Excel Campus](https://www.youtube.com/user/ExcelCampus)
-
 
 
 ## SQL and Databases 
@@ -29,7 +23,6 @@ Courses | Source | Duration | Completed
 
 Resources
 
-[DVD Rental database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
@@ -71,12 +64,6 @@ Resources
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
-
-[Matplotlib](https://realpython.com/python-matplotlib-guide/)
-
-[Seaborn](https://seaborn.pydata.org/tutorial.html)
-
-[SciPy](https://docs.scipy.org/doc/scipy/reference/tutorial/) 
 
 
 
@@ -127,9 +114,7 @@ Courses | Source | Duration | Completed
 [CS229: Machine Learning Videos](https://www.youtube.com/watch?v=jGwO_UgTS7I) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
-
 []() | | | |
-
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
 [Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
@@ -177,7 +162,7 @@ Other topics:
 
 [fast.ai](https://www.fast.ai/) 
 
-[Macine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=8350s)
+
 
 
 ## Linux, Git, and Other Topics 
@@ -193,6 +178,8 @@ Courses | School | Duration | Completed
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 [Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
+
+
 
 
 
@@ -218,6 +205,12 @@ Resources
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
 
+## C++
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
+[C++ Tutorial for Begnners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
+[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | freecodecamp | 4 hours | |
 
 
 
@@ -269,22 +262,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
-
-
-
-
-
-
-## Finance 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Business and Financial Modeling Specilization](https://www.coursera.org/specializations/wharton-business-financial-modeling) | Wharton | 6 months | | 
-[Nick DeRobertis’ Financial Modeling](https://nickderobertis.github.io/fin-model-course/) | DeRobertis | self-paced | |
-[DeRobertis’ Corresponding Financial Modeling Videos](https://www.youtube.com/watch?v=xL0Wo14Hqbk&list=PLACKX9tziAQJSk4YSGN0N2II985HTIuHD) | DeRobertis | self-paced | |
-[Analyze Financial Data with Python](https://www.codecademy.com/learn/paths/finance-python) | Code Academy | 7 weeks | |
-
-
-
 
 
 # Useful Links
