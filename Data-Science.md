@@ -61,7 +61,6 @@ Resources
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
-[Data Visualization with Python](https://www.datacamp.com/tracks/data-visualization-with-python) | Data Camp | 16 hours | |
 [Learning Statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) | Weed | self-paced | |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 
@@ -90,6 +89,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
+[]() | | | |
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
@@ -123,9 +123,13 @@ Courses | Source | Duration | Completed
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
 [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 weeks | |
+[CS229: Machine Learning](https://cs229.stanford.edu/) | Stanford | self-paced | |
+[CS229: Machine Learning Videos](https://www.youtube.com/watch?v=jGwO_UgTS7I) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
+
 []() | | | |
+
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
 [Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
