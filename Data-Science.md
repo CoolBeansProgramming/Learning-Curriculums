@@ -26,15 +26,22 @@ Exercises
 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
-[PostgreSQL Exercises](https://pgexercises.com/)
+[pgexercises](https://pgexercises.com/)
 
-[HackerRank](https://www.hackerrank.com/)
+[W3 Schools](https://www.w3schools.com/sql/)
 
-[Leetcode](https://leetcode.com/)
+[sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+[sqlbolt](https://sqlbolt.com/)
 
 [DataLemur](https://datalemur.com/)
 
-[W3 Schools](https://www.w3schools.com/sql/)
+[Leetcode](https://leetcode.com/)
+
+[StrataScratch](https://www.stratascratch.com/)
+
+[HackerRank](https://www.hackerrank.com/)
+
 
 
 
