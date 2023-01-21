@@ -21,14 +21,20 @@ Courses | Source | Duration | Completed
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | udacity | 4 weeks | X |
 [Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | freecodecamp | 8 hours | X |
 
-Resources
+Exercises 
 
 
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
 [PostgreSQL Exercises](https://pgexercises.com/)
 
-[HackerRank SQL](https://www.hackerrank.com/domains/sql)
+[HackerRank](https://www.hackerrank.com/)
+
+[Leetcode](https://leetcode.com/)
+
+[DataLemur](https://datalemur.com/)
+
+[W3 Schools](https://www.w3schools.com/sql/)
 
 
 
