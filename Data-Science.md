@@ -62,6 +62,7 @@ Courses | Source | Duration | Completed
 Resources 
 
 [Learn Python](https://www.learnpython.org/)
+[How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html)
 
 ## Python for Data Analysis 
 Courses | Source | Duration | Completed
@@ -115,8 +116,6 @@ Resources and Exercises
 
 
 ## Machine Learning 
-
-[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) 
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
@@ -282,6 +281,13 @@ Courses | Source | Duration | Completed
 [Meta (Facebook) Data Science Interview Questions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/#sql-interview-questions)
 
 [Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+
+
+## Certificates 
+
+[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) 
+[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+[CompTIA Data+](https://www.comptia.org/certifications/data)
 
 
 ## Data Sets, Projects, and Challenges 
