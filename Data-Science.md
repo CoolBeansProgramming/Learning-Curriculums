@@ -52,12 +52,16 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | X |
-[Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
-[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
-[Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | freecodecamp | 1 hour | |
 [Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | freecodecamp | 2.5 hours | |
+[Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
+[]() | | | |
+[]() | | | |
+[]() | | | |
+[Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
+
 
 Resources 
 
@@ -91,6 +95,8 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
+[]() | | | |
+[]() | | | |
 []() | | | |
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
@@ -126,8 +132,12 @@ Courses | Source | Duration | Completed
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
 []() | | | |
+[]() | | | |
+[]() | | | |
 [CS229: Machine Learning](https://cs229.stanford.edu/) | Stanford | self-paced | |
 [CS229: Machine Learning Videos](https://www.youtube.com/watch?v=jGwO_UgTS7I) | Stanford | self-paced | |
+[]() | | | |
+[]() | | | |
 []() | | | |
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
