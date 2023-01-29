@@ -56,8 +56,8 @@ Courses | Source | Duration | Completed
 [Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+[Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | freecodecamp | 1 hour | |
 [Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | freecodecamp | 2.5 hours | |
-[Automate the Boring Stuff wiht Python](https://automatetheboringstuff.com/) | Sweigart | self-paced | |
 
 Resources 
 
