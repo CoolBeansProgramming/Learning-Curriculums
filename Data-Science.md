@@ -59,8 +59,10 @@ Courses | Source | Duration | Completed
 []() | | | |
 []() | | | |
 []() | | | |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
 [Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
 [Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
+
 
 
 Resources 
@@ -197,8 +199,6 @@ Courses | School | Duration | Completed
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
 [What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | medium | self-paced | |
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | udacity | 2 months | |
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 [Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
