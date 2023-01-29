@@ -62,6 +62,7 @@ Courses | Source | Duration | Completed
 Resources 
 
 [Learn Python](https://www.learnpython.org/)
+
 [How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html)
 
 ## Python for Data Analysis 
