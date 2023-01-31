@@ -8,7 +8,9 @@ Courses | Source | Duration | Completed
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
 [Power BI Tutorial](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | 2.5 hours | X |
 
+Resources 
 
+[Data Science Tutorials](https://www.youtube.com/@RVideoTutorials)
 
 
 ## SQL and Databases 
@@ -53,7 +55,7 @@ Courses | Source | Duration | Completed
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | X |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | freecodecamp | 1 hour | X |
-[Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | freecodecamp | 2.5 hours | |
+[Automate with Python: Porjects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) | freecodecamp | 2.5 hours | |
 [Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 []() | | | |
