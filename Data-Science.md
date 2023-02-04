@@ -73,6 +73,8 @@ Resources
 
 [How to Think Like a Computer Scientist](https://greenteapress.com/thinkpython2/html/index.html)
 
+[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+
 ## Python for Data Analysis 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
