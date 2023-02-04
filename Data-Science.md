@@ -192,6 +192,8 @@ Other topics:
 
 [fast.ai](https://www.fast.ai/) 
 
+[Mathematics for Machine Learning](https://mml-book.github.io/)
+
 
 
 
