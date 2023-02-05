@@ -75,6 +75,8 @@ Resources
 
 [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 
+[20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) 
+
 ## Python for Data Analysis 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
