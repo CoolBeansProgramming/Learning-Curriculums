@@ -3,8 +3,8 @@
 ## Excel, Tableau, and Power BI
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquaire University | 6 months | X |
-[Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools?specialization=excel-data-analytics-visualization) | Macquaire University | 15 hours | X |
+[Excel Skills for Business Specilization](https://www.coursera.org/specializations/excel#courses) | Macquarie  University | 6 months | X |
+[Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools?specialization=excel-data-analytics-visualization) | Macquarie  University | 15 hours | X |
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
 [Power BI Tutorial](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | 2.5 hours | X |
 
@@ -16,12 +16,12 @@ Resources
 ## SQL and Databases 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Modeling and Entitiy Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
-[ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | chawla | self-paced | X | 
+[Data Modeling and Entity Relationship Diagram](https://www.cs.uregina.ca/Links/class-info/215/erd/) | University of Regina | self-paced | X |
+[ERD "Crow's Foot" Relationship Symbols Cheat Sheet](https://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/) | Chawla | self-paced | X | 
 [PostgresSQL: Installation & Overview](https://www.youtube.com/watch?v=fZQI7nBu32M) | Socratica | 9 minutes | X | 
 [PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY) | Derek Banas | 4 hours | X |
-[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | udacity | 4 weeks | X |
-[Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | freecodecamp | 8 hours | X |
+[SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Udacity | 4 weeks | X |
+[Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | FreeCodeCamp | 8 hours | X |
 
 Exercises 
 
@@ -53,17 +53,17 @@ Exercises
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
-[Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | freecodecamp | 2 hours | X |
-[Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | freecodecamp | 1 hour | X |
-[Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) | freecodecamp | 2.5 hours | X |
+[Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | FreeCodeCamp | 2 hours | X |
+[Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
+[Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
 [Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 []() | | | |
 []() | | | |
 []() | | | |
-[Software Testing](https://www.udacity.com/course/software-testing--cs258) | udacity | 1 month | |
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
 [Python Programming MOOC 2022](https://programming-22.mooc.fi/) | University of Helsinki | self-paced | |
-[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | freecodecamp | 9 hours | |
+[Learn Python by Thinking in Types](https://www.youtube.com/watch?v=jH85McHenvw) | FreeCodeCamp | 9 hours | |
 
 
 
@@ -101,7 +101,7 @@ Resources
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | codebasics | 6 hours | X |
+[Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
 []() | | | |
 []() | | | |
@@ -185,7 +185,7 @@ Dimensionality Reduction:
 
 Other topics: 
 [Feature Engineering for Machine Learning: 10 Examples](https://www.kdnuggets.com/2018/12/feature-engineering-explained.html),
-[Gardient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
+[Gradient Boost Machine Learning](https://www.youtube.com/watch?v=j034-r3O2Cg) 
 
 
 ### Resources 
@@ -202,11 +202,11 @@ Other topics:
 ## Linux, Git, and Other Topics 
 Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Linx Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| freecodecamp | self-paced| |
+[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
 [Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
-[What does the self taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | medium | self-paced | |
+[What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 [Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
@@ -241,8 +241,8 @@ Resources
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
-[C++ Tutorial for Begnners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
-[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | freecodecamp | 4 hours | |
+[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
+[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | FreeCodeCamp | 4 hours | |
 
 
 
@@ -262,7 +262,7 @@ Resources
 
 [Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
 
-[Hands on Programming with R](https://rstudio-education.github.io/hopr/)
+[Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 
 [Advanced R](https://adv-r.hadley.nz/)
 
@@ -274,10 +274,10 @@ Resources
 ## Time Series 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) | ritvikmath | self-paced | |
+[Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) | Ritvikmath | self-paced | |
 [Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
-[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquaire University | 4 months | |
-[STAT 510: Applied Time Sreies Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
+[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquarie  University | 4 months | |
+[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) | Duke | self-paced | |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
 
