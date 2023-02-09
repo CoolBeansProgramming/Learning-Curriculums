@@ -204,7 +204,7 @@ Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
 [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
-[Pro Git](https://git-scm.com/book/en/v2) | Chacon and Straub | book | |
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
 [What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
@@ -212,7 +212,9 @@ Courses | School | Duration | Completed
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
 
 
+Resources
 
+[Pro Git](https://git-scm.com/book/en/v2) 
 
 
 
