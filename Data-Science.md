@@ -136,17 +136,17 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
-[Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 weeks | |
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
-[]() | | | |
-[]() | | | |
-[]() | | | |
 [CS229: Machine Learning](https://cs229.stanford.edu/) | Stanford | self-paced | |
 [CS229: Machine Learning Videos](https://www.youtube.com/watch?v=jGwO_UgTS7I) | Stanford | self-paced | |
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 []() | | | |
 []() | | | |
 []() | | | |
+[]() | | | |
+[]() | | | |
+[]() | | | |
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
+[Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 weeks | |
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
 [Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
@@ -204,7 +204,7 @@ Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
 [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
-[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 15 hours | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
 [What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
