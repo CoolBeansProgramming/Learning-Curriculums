@@ -136,8 +136,8 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
-[CS229: Machine Learning](https://cs229.stanford.edu/) | Stanford | self-paced | |
-[CS229: Machine Learning Videos](https://www.youtube.com/watch?v=jGwO_UgTS7I) | Stanford | self-paced | |
+[CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
+[CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 []() | | | |
 []() | | | |
