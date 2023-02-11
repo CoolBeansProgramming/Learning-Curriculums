@@ -145,8 +145,6 @@ Courses | Source | Duration | Completed
 []() | | | |
 []() | | | |
 []() | | | |
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | deeplearning.ai | 2 months | |
-[Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 weeks | |
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
 [Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
@@ -218,6 +216,14 @@ Resources
 
 
 
+## C++
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
+[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
+
+
+
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
@@ -237,14 +243,6 @@ Resources
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
-
-
-## C++
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
-[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
-[C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | FreeCodeCamp | 4 hours | |
 
 
 
