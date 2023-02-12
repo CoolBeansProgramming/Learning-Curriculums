@@ -27,10 +27,10 @@ Courses | Source | Duration | Completed
 ## Complete Courses 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Web Development for Beginners ](https://github.com/microsoft/Web-Dev-For-Beginners) | Microsoft | |
-[The Odin Project](https://www.theodinproject.com/) | Odin Project | - | |
-[Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | - | |
-[The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | - | |
+[Web Development for Beginners ](https://github.com/microsoft/Web-Dev-For-Beginners) | Microsoft | self-paced | | 
+[The Odin Project](https://www.theodinproject.com/) | Odin Project | self-paced | |
+[Full Stack Open](https://fullstackopen.com/en/) | Full Stack Open | self-paced | |
+[The Frontend Developer Career Path](https://scrimba.com/learn/frontend) | Scrimba | self-paced | |
 [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)| Harvard | self-paced | |
 
 
