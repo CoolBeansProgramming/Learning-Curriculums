@@ -108,6 +108,14 @@ Courses | | |
 [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) | Friedman | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
+| | | |
+| | | |
+| | | |
+Time Series | | |
+[02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA) | Christiansen | | |
+[Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
+[Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
+
 
 ### Supplemental Resources 
 
