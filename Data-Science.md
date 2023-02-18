@@ -47,7 +47,6 @@ Courses | Source | Duration | Completed
 [Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
-[How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) | Downey | self-paced | |
 [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) | Sweigart  | self-paxed | |
 [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) | FreeCodeCamp | 3 hours | |
 
