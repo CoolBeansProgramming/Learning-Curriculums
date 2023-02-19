@@ -95,7 +95,6 @@ Courses | Source | Duration | Completed
 Math | | | |
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
-[Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth | self-paced | |
 | | | |
 | | | |
 | | | |
