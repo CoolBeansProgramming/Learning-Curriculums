@@ -149,6 +149,7 @@ Other topics:
 Other Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesAI4ETopButton) | deeplearning.ai | 12 hours | |
+[Deep Learning: An MIT Press book](https://www.deeplearningbook.org/) | Goodfello | self-paced | |
 [Deep Learning Speciliation](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) | deeplearning.ai | 5 months | |
 [Natural Language Processing Specilization](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) | deeplearning.ai | 4 months | | 
 [Practical Deep Learning for Coders](https://course.fast.ai/) | fast.ai | self-paced | |
