@@ -17,7 +17,14 @@ Courses | Source | Duration | Completed
 [Calculus 2](https://www.khanacademy.org/math/calculus-2) | Khan Academy | self-paced | |
 [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
 [Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
+
+## Mathematics for Machine Learning 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
 [Convex Optimization 1](https://see.stanford.edu/Course/EE364A) | Stanford | 19 lectures | |
+[Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth | self-paced | |
+[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) | James | self-paced | |
+[The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) | Hastie | self-paced | |
 
 Additional support:
 
