@@ -103,7 +103,7 @@ Courses | | |
 [CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
-[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf_ | James | self-paced | |
+[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) | James | self-paced | |
 | | | |
 | | | |
 | | | |
@@ -194,7 +194,7 @@ Resource: [Pro Git](https://git-scm.com/book/en/v2)
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
-[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | |
+[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | X |
 
 
 
