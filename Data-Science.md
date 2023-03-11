@@ -101,10 +101,16 @@ Math | | | |
 Courses | | |
 [CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
 [CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
+[Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
+[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf_ | James | self-paced | |
+| | | |
+| | | |
+| | | |
+Resources | | |
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | Amidi | self-paced | |
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning) | Amidi | self-paced | |
 [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) | Friedman | self-paced | |
-[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
 | | | |
 | | | |
