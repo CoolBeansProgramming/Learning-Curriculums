@@ -205,6 +205,7 @@ Courses | Source | Duration | Completed
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy (free course) | 16+ hours | |
 [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
 [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
 [Java Programming](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF) | Caleb Curry | 101 videos | |
