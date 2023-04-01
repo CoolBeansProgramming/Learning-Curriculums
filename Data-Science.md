@@ -197,6 +197,7 @@ Resource: [Pro Git](https://git-scm.com/book/en/v2)
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | X |
+[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) | Udacity | 3 weeks | |
 [Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
 
 
