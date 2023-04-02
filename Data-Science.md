@@ -20,17 +20,16 @@ Courses | Source | Duration | Completed
 [PostgreSQL Tutorial Full Course 2022](https://www.youtube.com/watch?v=85pG_pDkITY) | Derek Banas | 4 hours | X |
 [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198) | Udacity | 4 weeks | X |
 [Database Design Series](https://www.youtube.com/watch?v=h0j0QN2b57M&list=PL_c9BZzLwBRK0Pc28IdvPQizD2mJlgoID) | FreeCodeCamp | 8 hours | X |
-[SQL Fundamentals](https://www.datacamp.com/tracks/sql-fundamentals) | DataCamp | 22 hours | |
-[Mode SQL Tutorial](https://mode.com/sql-tutorial/) | Mode | self-paced | |
+
 
 
 SQL | Practice 
 :-- | :--:
 [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | [W3 Schools](https://www.w3schools.com/sql/)
-[pgexercises](https://pgexercises.com/) | [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+[Mode SQL Tutorial](https://mode.com/sql-tutorial/) | [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 [sqlbolt](https://sqlbolt.com/)| [DataLemur](https://datalemur.com/)
 [Leetcode](https://leetcode.com/)|[StrataScratch](https://www.stratascratch.com/)
-[HackerRank](https://www.hackerrank.com/)
+[HackerRank](https://www.hackerrank.com/) | [pgexercises](https://pgexercises.com/)
 
 
 
