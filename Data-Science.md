@@ -90,22 +90,21 @@ Resources:
 
 
 
-## Machine Learning 
+## Machine Learning - Python
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-Math | | | |
+ML Math | | | |
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
 | | | |
 | | | |
 | | | |
-Courses | | |
+ML Courses | | |
 [CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
 [CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
-[Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
-[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) | James | self-paced | |
+[Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
 | | | |
 | | | |
 | | | |
@@ -117,10 +116,8 @@ Resources | | |
 | | | |
 | | | |
 | | | |
-Time Series | | |
-[02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA) | Christiansen | | |
-[Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
-[Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
+
+
 
 
 ### Supplemental Resources 
@@ -168,38 +165,48 @@ Other Courses | Source | Duration | Completed
 
 
 
-
-
-
-
-
-
-
-## Linux, Git, and Other Topics 
-Courses | School | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
-[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
-[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 15 hours | |
-[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
-[What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
-[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
-[Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
-[Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
-
-
-Resource: [Pro Git](https://git-scm.com/book/en/v2) 
-
-
-
-## C++
+## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | X |
-[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) | Udacity | 3 weeks | |
-[Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
+[Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
+[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) | James | self-paced | |
+[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
+[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
+[Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
+[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | |
+[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced | |
 
 
+Resources
+
+[David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
+
+[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
+
+[Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
+
+[Advanced R](https://adv-r.hadley.nz/)
+
+
+
+## Time Series 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) | Ritvikmath | self-paced | |
+[Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
+[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquarie  University | 4 months | |
+[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
+[Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) | Duke | self-paced | |
+[Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
+| | | |
+| | | |
+| | | |
+[02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA) | Christiansen | | |
+[Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
+[Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
+Resources
+
+[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 
 
 ## Java 
@@ -228,26 +235,12 @@ Resources
 
 
 
-## Machine Learning with R
+## C++
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
-[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
-[Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
-[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | |
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced | |
-
-
-Resources
-
-[David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
-
-[Graphs with ggplot2](http://www.cookbook-r.com/Graphs/)
-
-[Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
-
-[Advanced R](https://adv-r.hadley.nz/)
-
+[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | X |
+[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) | Udacity | 3 weeks | |
+[Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
 
 
 ## SAS
@@ -256,20 +249,20 @@ Courses | Source | Duration | Completed
 [Learn the basics of SAS Programming](https://www.youtube.com/watch?v=vQZ0DSUTAzQ) | Learning with Jelly | 1.5 hours | |
 
 
-## Time Series 
-Courses | Source | Duration | Completed
+## Linux, Git, and Other Topics 
+Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Time Series Analysis](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) | Ritvikmath | self-paced | |
-[Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
-[Excel Skills for Business Forecasting Specialization](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) | Macquarie  University | 4 months | |
-[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
-[Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) | Duke | self-paced | |
-[Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
+[Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595?irclickid=3Vg33vRd5xyLRkFwUx0Mo3cXUkES7-QhRwK1xU0&irgwc=1&utm_source=affiliate&utm_medium=&aff=1459666&utm_term=&utm_campaign=__&utm_content=&adid=786224) | Udacity | 1 Week| |
+[How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
+[Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 15 hours | |
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
+[What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
+[Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
+[Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
+[Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
 
-Resources
 
-[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
-
+Resource: [Pro Git](https://git-scm.com/book/en/v2) 
 
 
 
@@ -297,7 +290,7 @@ Courses | Source | Duration | Completed
 [CompTIA Data+](https://www.comptia.org/certifications/data)
 
 
-## Data Sets, Projects, and Challenges 
+## Projects and Challenges 
 [Kaggle](https://www.kaggle.com/)
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
