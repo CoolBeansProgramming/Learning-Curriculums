@@ -165,6 +165,7 @@ Other Courses | Source | Duration | Completed
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) | Udacity | 1 day | |
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
 [An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) | James | self-paced | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
