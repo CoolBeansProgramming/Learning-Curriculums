@@ -20,6 +20,7 @@ Courses | Source | Duration | Completed
 [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) | Udacity | 3 weeks | X |
 [ES6](https://www.udacity.com/course/es6-javascript-improved--ud356) | Udacity | 4 weeks | |
 [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898) | Udacity | 2 weeks | |
+[JavaScript Mastery Complete Course](https://www.youtube.com/watch?v=xc3a_CJhjCc) | Nerd's lesson | 1 day | |
 [Data Structures and Algorithms in JavaScript](https://www.youtube.com/watch?v=t2CEgPsws3U) | freecodecamp | 2 hours | |
 [Data Visualization with D3](https://www.youtube.com/watch?v=xkBheRZTkaw) | freecodecamp | 19.5 hours | |
 [Object-oriented Programming in Javascript](https://www.youtube.com/watch?v=PFmuCDHHpwk) | Programming with Mosh | 1 hour | |
