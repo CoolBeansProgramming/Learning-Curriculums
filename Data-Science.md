@@ -55,7 +55,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
-[Learning Statistics with Python](https://ethanweed.github.io/pythonbook/landingpage.html) | Weed | self-paced | |
 [Learning Scientific Programming with Python](https://scipython.com/book/) | Hill | self-paced | |
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | VanderPlas | self-paced | |
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
@@ -113,9 +112,7 @@ Resources | | |
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning) | Amidi | self-paced | |
 [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) | Friedman | self-paced | |
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
-| | | |
-| | | |
-| | | |
+
 
 
 
@@ -204,6 +201,8 @@ Courses | Source | Duration | Completed
 [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TPiD61nCsPnFMR5TOvMHXA) | Christiansen | | |
 [Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
 [Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
+
+
 Resources
 
 [A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
