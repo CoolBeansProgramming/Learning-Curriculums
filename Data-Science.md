@@ -167,7 +167,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Analysis with R](https://www.udacity.com/course/data-analysis-with-r--ud651) | Udacity | 1 day | |
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
-[An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) | James | self-paced | |
+[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) | James | self-paced | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) | Wickham, Navarro, Pedersen | online book | |
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
