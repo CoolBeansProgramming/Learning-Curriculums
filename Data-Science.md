@@ -213,13 +213,13 @@ Resources
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) | Udemy (free course) | 16+ hours | |
+[Introduction to Java Programming and Data Structures](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235) | Liang | self-paced | |
 [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
 [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
-[Java Programming](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF) | Caleb Curry | 101 videos | |
-[Learn Java](https://www.youtube.com/@alexlorenlee/playlists) | Alex Lee | 85 videos | |
 [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki  | 14 lectures | |
-[CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) | Stanford | 28 lectures
+| | | |
+| | | |
+| | | |
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | Cormen | self-paced | |
 [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
@@ -234,13 +234,13 @@ Resources
 
 [Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
 
+[CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
 
 ## C++
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[C++ Tutorial for Beginners](https://www.youtube.com/watch?v=ZzaPdXTrSb8) | Programming with Mosh | 1.5 hours | X |
-[C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) | Udacity | 3 weeks | |
+[C++ Programming: Program Design Including Data Structures ](https://www.amazon.com/Programming-Program-Design-Including-Structures/dp/1337117560) | Malik | self-paced | |
 [Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
 
 
