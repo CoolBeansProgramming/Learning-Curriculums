@@ -71,6 +71,7 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
+[Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
