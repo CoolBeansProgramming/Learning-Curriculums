@@ -43,24 +43,27 @@ Courses | Source | Duration | Completed
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | FreeCodeCamp | 2 hours | X |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
-[Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
 
 
 [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) 
+
 [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) 
+
+[Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) 
+
 
 
 ## Python for Data Analysis 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
-[An Introduction to Statistical Learning with applications in Python](https://www.statlearning.com/) | James | self-paced | |
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
+[An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 [Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
 
 
 Resources: 
