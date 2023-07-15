@@ -43,11 +43,13 @@ Courses | Source | Duration | Completed
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | FreeCodeCamp | 2 hours | X |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
 [Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
-[Getting Started With Testing in Python](https://realpython.com/python-testing/) | Real Python | self-paced | |
+[Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
-[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) | Sweigart  | self-paxed | |
-[20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) | FreeCodeCamp | 3 hours | |
+
+
+[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) 
+[20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) 
 
 
 ## Python for Data Analysis 
@@ -71,7 +73,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
-[Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
