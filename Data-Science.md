@@ -279,12 +279,6 @@ Courses | Source | Duration | Completed
 [Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
 
 
-# Useful Links
-
-[Meta (Facebook) Data Science Interview Questions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions/#sql-interview-questions)
-
-[Alex The Analyst on YouTube](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
-
 
 ## Certificates 
 
