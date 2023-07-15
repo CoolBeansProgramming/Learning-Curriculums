@@ -44,6 +44,7 @@ Courses | Source | Duration | Completed
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | FreeCodeCamp | 2 hours | X |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
+[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) | Harvard | self-paced | |
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Udacity | 2 months | |
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
 
