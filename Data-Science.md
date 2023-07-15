@@ -58,7 +58,7 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [An Introduction to Statistical Learning with applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
-[Learning Scientific Programming with Python](https://scipython.com/book/) | Hill | self-paced | |
+[Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
 
 
