@@ -49,6 +49,8 @@ Courses | Source | Duration | Completed
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 1 month | |
 
 
+[Google's Python Class](https://developers.google.com/edu/python)
+
 [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) 
 
 [20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) 
@@ -290,7 +292,10 @@ Courses | Source | Duration | Completed
 [CompTIA Data+](https://www.comptia.org/certifications/data)
 
 
-## Projects and Challenges 
+## Other Resources 
+
+[JetBrains Academy](https://www.jetbrains.com/academy/#learn)
+
 [Kaggle](https://www.kaggle.com/)
 
 [Data Analyst Portfolio Projects](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f) 
