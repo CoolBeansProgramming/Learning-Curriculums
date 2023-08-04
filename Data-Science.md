@@ -32,6 +32,9 @@ SQL | Practice
 [Leetcode](https://leetcode.com/)|[StrataScratch](https://www.stratascratch.com/)
 [HackerRank](https://www.hackerrank.com/) | [pgexercises](https://pgexercises.com/)
 
+Resources 
+
+[Mode Analytics](https://mode.com/sql-tutorial/) 
 
 
 
@@ -64,7 +67,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
-[An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 [Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
 
@@ -113,17 +115,19 @@ ML Math | | | |
 | | | |
 | | | |
 ML Courses | | |
-[CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
-[CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
+[Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | | 
+[IBM: Machine Learning with Python: A Practical Introduction](https://www.edx.org/learn/data-analysis/ibm-machine-learning-with-python-a-practical-introduct) | IBM | 30 hours | | 
+[An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
 | | | |
 | | | |
 | | | |
 Resources | | |
+[CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
+[CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | Amidi | self-paced | |
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning) | Amidi | self-paced | |
-[Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html) | Friedman | self-paced | |
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
 
 
