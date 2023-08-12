@@ -115,7 +115,7 @@ ML Math | | | |
 | | | |
 | | | |
 ML Courses | | |
-[Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | | 
+[Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | X | 
 [IBM: Machine Learning with Python: A Practical Introduction](https://www.edx.org/learn/data-analysis/ibm-machine-learning-with-python-a-practical-introduct) | IBM | 30 hours | | 
 [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
