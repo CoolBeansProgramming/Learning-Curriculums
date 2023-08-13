@@ -68,6 +68,7 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 [Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
+[Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
 
 
 Resources: 
@@ -116,6 +117,7 @@ Courses | Source | Duration | Completed
 [CS229: Machine Learning Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
+[Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) | Murphy | self-paced | |
 [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
 
 
