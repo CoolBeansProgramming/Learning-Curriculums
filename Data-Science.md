@@ -122,7 +122,7 @@ Courses | Source | Duration | Completed
 
 ### Resources 
 
-[CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) 
+[CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning),
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 
