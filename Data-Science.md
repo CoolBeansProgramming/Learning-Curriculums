@@ -66,16 +66,17 @@ Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 [Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
 
 
 Resources: 
 
-[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
 
 
 
