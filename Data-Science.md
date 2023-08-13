@@ -108,13 +108,8 @@ Resources:
 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-ML Math | | | |
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
-| | | |
-| | | |
-| | | |
-ML Courses | | |
 [Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | X | 
 [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
 [CS229: Machine Learning Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo) | Stanford | self-paced | |
@@ -127,8 +122,8 @@ ML Courses | | |
 
 ### Resources 
 
-[CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | Amidi | self-paced | |
-[CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning) | Amidi | self-paced | |
+[CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) 
+[CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 
 Classification:
