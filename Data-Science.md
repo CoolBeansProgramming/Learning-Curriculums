@@ -117,17 +117,17 @@ ML Math | | | |
 ML Courses | | |
 [Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | X | 
 [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
+[CS229: Machine Learning Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
+[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
 | | | |
 | | | |
 | | | |
 Resources | | |
-[CS229: Machine Learning](https://cs229.stanford.edu/index-sum22.html) | Stanford | self-paced | |
-[CS229: Machine Learning Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) | Stanford | self-paced | |
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning) | Amidi | self-paced | |
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning) | Amidi | self-paced | |
-[Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Bishop | self-paced | | 
+
 
 
 
