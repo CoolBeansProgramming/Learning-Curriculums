@@ -173,13 +173,7 @@ Courses | Source | Duration | Completed
 [Statistical Learning](https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning) | Stanford | self-paced | |
 [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) | James | self-paced | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
-| | | |
-| | | |
-| | | |
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
-[Logit Regression - R Data Analysis Examples](https://stats.oarc.ucla.edu/r/dae/logit-regression/) | UCLA | self-paced | |
-[Logistic Regression in R](https://www.youtube.com/watch?v=C4N3_XJJ-jU) | StatQuest | 17 minutes | |
-[How to perform Logistic Regression in R](https://www.r-bloggers.com/2015/09/how-to-perform-a-logistic-regression-in-r/) | R-bloggers | self-paced | |
 
 
 Resources
