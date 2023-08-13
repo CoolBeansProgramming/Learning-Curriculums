@@ -294,6 +294,8 @@ Courses | Source | Duration | Completed
 
 [Project Euler](https://projecteuler.net/)
 
+[Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
+
 
 
 
