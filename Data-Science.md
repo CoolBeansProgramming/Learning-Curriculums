@@ -122,7 +122,7 @@ Courses | Source | Duration | Completed
 
 
 ### Resources 
-[CS229 Lecture Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo),
+[CS229 Lecture Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy),
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning),
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
