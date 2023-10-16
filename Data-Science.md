@@ -111,8 +111,8 @@ Courses | Source | Duration | Completed
 [Mathematics for Machine Learning Specilization](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College London | 4 months | X |
 [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) | Udacity | 10 hours | X |
 [Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | X | 
+[Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | Code Basics | 42 videos | | 
 [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
-[CS229: Machine Learning Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo) | Stanford | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
 [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) | Murphy | self-paced | |
@@ -122,7 +122,7 @@ Courses | Source | Duration | Completed
 
 
 ### Resources 
-
+[CS229 Lecture Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo),
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning),
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
