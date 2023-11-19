@@ -205,10 +205,11 @@ Resources
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Java Programming and Data Structures](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235) | Liang | self-paced | |
 [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
 [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
+[Introduction to Java Programming and Data Structures](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235) | Liang | self-paced | |
 [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki  | 14 lectures | |
+[Think Java](https://greenteapress.com/wp/think-java-2e/) | Downey | self-paced | |
 | | | |
 | | | |
 | | | |
@@ -224,9 +225,6 @@ Resources
 
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
-[Derek Banas on YouTube](https://www.youtube.com/user/derekbanas) 
-
-[CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
 
 ## C++
@@ -236,10 +234,7 @@ Courses | Source | Duration | Completed
 [Learn C++](https://www.learncpp.com/) | Learn C++ | self-paced | |
 
 
-## SAS
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Learn the basics of SAS Programming](https://www.youtube.com/watch?v=vQZ0DSUTAzQ) | Learning with Jelly | 1.5 hours | |
+
 
 
 ## Linux, Git, and Other Topics 
