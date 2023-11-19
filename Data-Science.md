@@ -62,7 +62,7 @@ Courses | Source | Duration | Completed
 
 
 ## Python for Data Analysis 
-Courses | Source | Duration | Completed
+Courses | Source | Duration | Completed 
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
