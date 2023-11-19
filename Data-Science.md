@@ -32,9 +32,6 @@ SQL | Practice
 [Leetcode](https://leetcode.com/)|[StrataScratch](https://www.stratascratch.com/)
 [HackerRank](https://www.hackerrank.com/) | [pgexercises](https://pgexercises.com/)
 
-Resources 
-
-[Mode Analytics](https://mode.com/sql-tutorial/) 
 
 
 
@@ -87,17 +84,6 @@ Courses | Source | Duration | Completed
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
-[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
-[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
-
-
-
-Resources:
-
-[How To Improve Your Problem-Solving Skills As A Programmer](https://towardsdatascience.com/hands-on-tutorial-how-to-improve-your-problem-solving-skills-as-a-programmer-83f0a8d1082f)
-
-[Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) 
 
 
 
@@ -217,6 +203,10 @@ Courses | Source | Duration | Completed
 [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
 
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
+[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
+[Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
+
 Resources
 
 [Algorithms Part 1 and 2 Book](https://algs4.cs.princeton.edu/home/)
@@ -224,6 +214,8 @@ Resources
 [Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
 
 [An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
+
+[Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) 
 
 
 
