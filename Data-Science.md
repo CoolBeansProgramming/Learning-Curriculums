@@ -186,27 +186,34 @@ Courses | Source | Duration | Completed
 [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
 [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
 [Introduction to Java Programming and Data Structures](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235) | Liang | self-paced | |
+[Introduction to Programming in Java Book Website](https://introcs.cs.princeton.edu/java/home/) | Princeton | self-paced | |
 [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki  | 14 lectures | |
 [Think Java](https://greenteapress.com/wp/think-java-2e/) | Downey | self-paced | |
 | | | |
 | | | |
 | | | |
-[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | Cormen | self-paced | |
+[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
 [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
-[Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
+[Algorithms Part 1 and 2 Book Website](https://algs4.cs.princeton.edu/home/) | Princeton | self-paced | |
+| | | |
+| | | |
+| | | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
+[An Introduction to the Analysis of Algorithms Book Website](https://aofa.cs.princeton.edu/home/) | Princeton | self-paced | |
+
+
+
 
 Resources:
 
-[Algorithms Part 1 and 2 Book](https://algs4.cs.princeton.edu/home/)
-
-[Programming in Java](https://introcs.cs.princeton.edu/java/home/) 
-
-[An Introduction to the Analysis of Algorithms](https://aofa.cs.princeton.edu/home/)
 
 [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) 
+
+[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) 
+
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+
 
 
 
