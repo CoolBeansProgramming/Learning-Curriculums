@@ -48,13 +48,11 @@ Courses | Source | Duration | Completed
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 
 
+Resources:
+
 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) 
 
 [Google's Python Class](https://developers.google.com/edu/python)
-
-[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) 
-
-[20 Beginner Python Projects](https://www.youtube.com/watch?v=pdy3nh1tn6I) 
 
 [Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) 
 
@@ -161,17 +159,13 @@ Courses | Source | Duration | Completed
 [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) and  [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)| James | self-paced | |
 [R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
-
+[Hands-on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | self-paced | |
+[Advanced R](https://adv-r.hadley.nz/) | Wickham | self-paced | | 
 
 Resources
 
-[David Robinson (Projects)](https://www.youtube.com/user/safe4democracy/featured)
-
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
-[Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
-
-[Advanced R](https://adv-r.hadley.nz/)
 
 
 
@@ -181,13 +175,9 @@ Courses | Source | Duration | Completed
 [Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
+[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) | Coghlan | self-paced | |
 [Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
 [Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
-
-
-Resources
-
-[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/)
 
 
 ## Java 
