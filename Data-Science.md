@@ -9,7 +9,9 @@ Courses | Source | Duration | Completed
 [Power BI Tutorial](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | 2.5 hours | X |
 [Data Analyst in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi) | DataCamp | 48 hours | |
 
-Resource: [Data Science Tutorials](https://www.youtube.com/@RVideoTutorials)
+Resources: 
+
+[Data Science Tutorials](https://www.youtube.com/@RVideoTutorials)
 
 
 ## SQL and Databases 
@@ -24,13 +26,13 @@ Courses | Source | Duration | Completed
 
 
 
-SQL | Practice 
-:-- | :--:
-[PostgreSQL Tutorial](https://www.postgresqltutorial.com/) | [W3 Schools](https://www.w3schools.com/sql/)
-[Mode SQL Tutorial](https://mode.com/sql-tutorial/) | [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial)
-[sqlbolt](https://sqlbolt.com/)| [DataLemur](https://datalemur.com/)
-[Leetcode](https://leetcode.com/)|[StrataScratch](https://www.stratascratch.com/)
-[HackerRank](https://www.hackerrank.com/) | [pgexercises](https://pgexercises.com/)
+Resources:
+
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+
+[Mode SQL Tutorial](https://mode.com/sql-tutorial/) 
+
+[pgexercises](https://pgexercises.com/)
 
 
 
