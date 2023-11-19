@@ -107,7 +107,7 @@ Courses | Source | Duration | Completed
 
 
 
-### Resources 
+### Resources: 
 [CS229 Lecture Videos](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy),
 [CS229 Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning),
 [CS229 Cheatsheet 2](https://github.com/afshinea/stanford-cs-229-machine-learning)
@@ -162,7 +162,7 @@ Courses | Source | Duration | Completed
 [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | self-paced | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickham | self-paced | | 
 
-Resources
+Resources:
 
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
@@ -194,12 +194,11 @@ Courses | Source | Duration | Completed
 [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | Cormen | self-paced | |
 [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&siteID=PtFMiHYfEVk-agOCndO_XKwn0Th8gl.XPg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 54 hours | |
 [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&siteID=PtFMiHYfEVk-R5OANMv3xHEyHVUH0N0LOQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Princeton | 63 hours | |
-
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | Stanford | 4 months | |
 [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) | MIT | self-paced | |
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm) | MIT | self-paced | |
 
-Resources
+Resources:
 
 [Algorithms Part 1 and 2 Book](https://algs4.cs.princeton.edu/home/)
 
@@ -234,7 +233,9 @@ Courses | School | Duration | Completed
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
 
 
-Resource: [Pro Git](https://git-scm.com/book/en/v2) 
+Resources: 
+
+[Pro Git](https://git-scm.com/book/en/v2) 
 
 
 
