@@ -66,7 +66,6 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
-[Learning Scientific Programming with Python](https://www.amazon.com/Learning-Scientific-Programming-Python-Christian-dp-1108745911/dp/1108745911/ref=dp_ob_title_bk) | Hill | self-paced | |
 [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
 
 
