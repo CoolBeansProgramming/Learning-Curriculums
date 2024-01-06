@@ -7,7 +7,7 @@ Courses | Source | Duration | Completed
 [Excel Power Tools for Data Analysis](https://www.coursera.org/learn/excel-power-tools?specialization=excel-data-analytics-visualization) | Macquarie  University | 15 hours | X |
 [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006) | Udacity | 3 weeks | X |
 [Power BI Tutorial](https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys) | Alex the Analyst | 2.5 hours | X |
-[Data Analyst in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi) | DataCamp | 48 hours | |
+[Data Analyst in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi) | DataCamp | 48 hours | X |
 
 Resources: 
 
