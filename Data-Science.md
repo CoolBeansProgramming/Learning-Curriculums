@@ -48,7 +48,9 @@ Courses | Source | Duration | Completed
 [Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
 [Google's Python Class](https://developers.google.com/edu/python) | Google | self-paced | X |
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
-
+[Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
+[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
+[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 
 
 
@@ -70,17 +72,6 @@ Resources:
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
-
-
-
-
-
-## Data Structures and Algorithms with Python
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
-[Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
-[Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 
 
 
