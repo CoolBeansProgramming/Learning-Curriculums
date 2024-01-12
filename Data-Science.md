@@ -45,16 +45,13 @@ Courses | Source | Duration | Completed
 [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) | Udacity | 5 weeks | X |
 [Object Oriented Programming with Python ](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=525s) | FreeCodeCamp | 2 hours | X |
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
+[Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
+[Google's Python Class](https://developers.google.com/edu/python) | Google | self-paced | X |
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 
 
-Resources:
 
-[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) 
 
-[Google's Python Class](https://developers.google.com/edu/python)
-
-[Automate with Python: Projects 1 and 3](https://www.youtube.com/watch?v=PXMJ6FS7llk) 
 
 
 
