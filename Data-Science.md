@@ -47,6 +47,7 @@ Courses | Source | Duration | Completed
 [Web Scraping with Python](https://www.youtube.com/watch?v=XVv6mJpFOb0) | FreeCodeCamp | 1 hour | X |
 [Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk) | FreeCodeCamp | 2.5 hours | X |
 [Google's Python Class](https://developers.google.com/edu/python) | Google | self-paced | X |
+[MOOC Python](https://programming-23.mooc.fi/) | University of Helsinki | self-paced | |
 [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/) | Downey | self-paced | |
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
