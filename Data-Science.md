@@ -52,18 +52,9 @@ Courses | Source | Duration | Completed
 [Data Structures and Algorithms Python](https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=1) | Codebasics | 6 hours | X |
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
-
-
-
-
-
-
-## Python for Data Analysis 
-Courses | Source | Duration | Completed 
-:-- | :--: | :--: | :--: 
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
-[A/B Testing](https://www.udacity.com/course/ab-testing--ud257) | Udacity | 1 month | |
 [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
+
 
 
 Resources: 
