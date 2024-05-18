@@ -85,7 +85,10 @@ Resources:
 [Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 
-
+## Data Mining 
+Courses | Source | Duration | Completed
+:-- | :--: | :--: | :--: 
+[Data Mining and Machine Learning](https://dataminingbook.info/) | Zaki and Meira | self-paced | |
 
 ## Machine Learning - Python
 
@@ -96,6 +99,7 @@ Courses | Source | Duration | Completed
 [Google Machine Learning Education](https://developers.google.com/machine-learning) | Google | self-paced | X | 
 [Machine Learning Tutorial Python](https://www.youtube.com/watch?v=gmvvaobm7eQ&list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | Code Basics | 42 videos | | 
 [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/) | James | self-paced | |
+[Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1) | Raschka  | self-paced | |
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |  Geron | self-paced | |
 [Hands on Machine Learning Videos](https://www.youtube.com/watch?v=-dK_80wu4xs&list=PL-u09-6gP5ZPOfSPTto4BIDwky-8aP4rQ&index=1) | Kalanithi | 5 hours | |
 [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) | Murphy | self-paced | |
@@ -159,9 +163,7 @@ Courses | Source | Duration | Completed
 [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | self-paced | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickham | self-paced | | 
 
-Resources:
 
-[ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
 
 
 
@@ -244,10 +246,7 @@ Resources:
 
 
 
-## Data Mining 
-Courses | Source | Duration | Completed
-:-- | :--: | :--: | :--: 
-[Data Mining and Machine Learning](https://dataminingbook.info/) | Zaki and Meira | self-paced | |
+
 
 
 
