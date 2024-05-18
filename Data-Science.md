@@ -252,13 +252,7 @@ Courses | Source | Duration | Completed
 
 
 
-## Certificates 
 
-[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/) 
-
-[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
-
-[CompTIA Data+](https://www.comptia.org/certifications/data)
 
 
 ## Other Resources 
