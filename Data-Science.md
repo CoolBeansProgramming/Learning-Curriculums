@@ -81,6 +81,7 @@ Courses | Source | Duration | Completed
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) | Hastie | self-paced | |
 
 Resources:
+
 [Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 
