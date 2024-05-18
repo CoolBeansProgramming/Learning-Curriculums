@@ -79,7 +79,7 @@ Courses | Source | Duration | Completed
 [Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth | self-paced | |
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) | Hastie | self-paced | |
 
-## Mathematics Resources
+Resources:
 [Penn State Statistics Online](https://online.stat.psu.edu/statprogram/graduate-programs)
 
 
