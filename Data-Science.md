@@ -247,9 +247,7 @@ Resources:
 ## Data Mining 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Mining Massive Datasets](https://www.edx.org/course/mining-massive-datasets) | Stanford | 7 Weeks | |
-[Data Mining Specilization](https://www.coursera.org/specializations/data-mining) | University of Illinois | 8 months | |
-
+[Data Mining and Machine Learning](https://dataminingbook.info/) | Zaki and Meira | self-paced | |
 
 
 
