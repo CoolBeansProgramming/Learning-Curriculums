@@ -69,7 +69,7 @@ Resources:
 ## Mathematics, Probability, and Statistics   
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel and Hardin | self-paced | | 
+[Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel and Hardin | self-paced | X | 
 [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Calculus 1](https://www.khanacademy.org/math/calculus-1) | Khan Academy | self-paced | |
