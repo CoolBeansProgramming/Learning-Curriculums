@@ -53,12 +53,10 @@ Courses | Source | Duration | Completed
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
-
-
+[Think Stats](https://allendowney.github.io/ThinkStats/) | Downey | self-paced | |
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
 
 Resources: 
-
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
@@ -157,7 +155,7 @@ Other Courses | Source | Duration | Completed
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) and  [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)| James | self-paced | |
-[R for Data Science](https://r4ds.had.co.nz/) | Wickham and Grolemund | online book | | 
+[R for Data Science](https://r4ds.hadley.nz/) | Wickham and Grolemund | online book | | 
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
 [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | self-paced | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickham | self-paced | | 
