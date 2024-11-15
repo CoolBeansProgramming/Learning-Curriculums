@@ -155,6 +155,7 @@ Other Courses | Source | Duration | Completed
 ## R
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
+[CS50's Introduction to Programming with R](https://cs50.harvard.edu/r/2024/) | Harvard | self-paced | |
 [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) and  [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)| James | self-paced | |
 [R for Data Science](https://r4ds.hadley.nz/) | Wickham and Grolemund | online book | | 
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1784393908/ref=asc_df_1784393908/?tag=hyprod-20&linkCode=df0&hvadid=312140868236&hvpos=&hvnetw=g&hvrand=6107051605414973986&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9016255&hvtargid=pla-386917847222&psc=1) | Lantz | book | |
