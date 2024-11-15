@@ -63,7 +63,7 @@ Resources:
 
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
 
-[Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+[Corey Schafer on YouTube](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 ## Mathematics, Probability, and Statistics   
 Courses | Source | Duration | Completed
