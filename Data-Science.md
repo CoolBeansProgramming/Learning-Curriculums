@@ -54,15 +54,16 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
 [Think Stats](https://allendowney.github.io/ThinkStats/) | Downey | self-paced | |
-[Python for Data Analysis, 3E](https://wesmckinney.com/book/) | McKinney | self-paced | |
 
 Resources: 
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+[Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
 [Keith Galli on YouTube](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw) 
 
-
+[Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 ## Mathematics, Probability, and Statistics   
 Courses | Source | Duration | Completed
