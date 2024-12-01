@@ -70,8 +70,8 @@ Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
 [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) | Çetinkaya-Rundel and Hardin | self-paced | X | 
 [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability) | Khan Academy | self-paced | |
-[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc) | Kahn Academy | self-paced | |
+[Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
 [Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
 [Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth | self-paced | |
