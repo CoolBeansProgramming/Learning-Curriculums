@@ -51,8 +51,9 @@ Courses | Source | Duration | Completed
 [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | Udacity | 4 weeks | X |
 [Problem Solving with Algorithms and Data Structures in Python](https://runestone.academy/runestone/books/published/pythonds/index.html) | Miller, Ranum, College | self-paced | |
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
-[Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
 [Think Stats](https://allendowney.github.io/ThinkStats/) | Downey | self-paced | |
+[Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
+
 
 Resources: 
 
