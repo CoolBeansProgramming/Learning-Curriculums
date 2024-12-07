@@ -224,13 +224,12 @@ Courses | Source | Duration | Completed
 
 
 
-## Linux, Git, and Other Topics 
+## Other Topics 
 Courses | School | Duration | Completed
 :-- | :--: | :--: | :--: 
 [How Git Branches Work](https://www.freecodecamp.org/news/how-git-branches-work/)| FreeCodeCamp | self-paced| |
 [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) | Udacity | 15 hours | |
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | MIT | 2 weeks | |
-[What does the self-taught programmer miss?](https://medium.com/young-coder/what-does-the-self-taught-programmer-miss-cecce2f71b27) | Medium | self-paced | |
 [Compilers](https://www.edx.org/course/compilers) | Stanford | 10 weeks | |
 [Information Theory](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6) | Foerster | 18 hours | |
 [Graph Theory & Additive Combinatorics](https://ocw.mit.edu/courses/18-217-graph-theory-and-additive-combinatorics-fall-2019/pages/syllabus/) | MIT | self-paced | |
