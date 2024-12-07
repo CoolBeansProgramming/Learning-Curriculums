@@ -178,8 +178,7 @@ Courses | Source | Duration | Completed
 ## Java 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) | Udacity | 6 weeks | |
-[Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283) | Udacity | 4 weeks | |
+[Introduction to Java](https://hyperskill.org/courses/8-introduction-to-java?utm_source=homepage) | Hyperskill | 42 hours | |
 [Introduction to Java Programming and Data Structures](https://www.amazon.com/Introduction-Programming-Structures-Comprehensive-Version/dp/0136520235) | Liang | self-paced | |
 [Introduction to Programming in Java Book Website](https://introcs.cs.princeton.edu/java/home/) | Princeton | self-paced | |
 [Think Java](https://greenteapress.com/wp/think-java-2e/) | Downey | self-paced | |
