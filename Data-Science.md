@@ -53,6 +53,8 @@ Courses | Source | Duration | Completed
 [Python Pandas Tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | Corey Schafer | 5 hours | X |
 [Think Stats](https://allendowney.github.io/ThinkStats/) | Downey | self-paced | |
 [Think Bayes](https://greenteapress.com/wp/think-bayes/) | Downey | self-paced | |
+[Introduction to Computation and Programming Using Python](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262542366) | Guttag | self-paced | |
+
 
 
 Resources: 
@@ -73,6 +75,8 @@ Courses | Source | Duration | Completed
 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) | Khan Academy | self-paced | |
 [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) | Khan Academy | self-paced | |
 [Differential Equations](https://www.khanacademy.org/math/differential-equations) | Khan Academy | self-paced | |
+[Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf) | Kochenderfer and Wheeler | self-paced | |
+[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) | Boyd and Vandenberghe | self-paced | |
 [Mathematics for Machine Learning](https://mml-book.github.io/) | Deisenroth | self-paced | |
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) | Hastie | self-paced | |
 
