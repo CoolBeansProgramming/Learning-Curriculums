@@ -160,7 +160,6 @@ Courses | Source | Duration | Completed
 [CS50's Introduction to Programming with R](https://cs50.harvard.edu/r/2024/) | Harvard | self-paced | |
 [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/) and  [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)| James | self-paced | |
 [R for Data Science](https://r4ds.hadley.nz/) | Wickham and Grolemund | online book | | 
-[Hands-on Programming with R](https://rstudio-education.github.io/hopr/) | Grolemund | self-paced | |
 [Advanced R](https://adv-r.hadley.nz/) | Wickham | self-paced | | 
 
 
