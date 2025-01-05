@@ -170,10 +170,8 @@ Courses | Source | Duration | Completed
 ## Time Series 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) | NIST | self-paced | |
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
-[A Little Book of R for Time Series](https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/) | Coghlan | self-paced | |
 [Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
 [Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
 
