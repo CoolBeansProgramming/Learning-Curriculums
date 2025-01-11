@@ -170,7 +170,7 @@ Courses | Source | Duration | Completed
 ## Time Series 
 Courses | Source | Duration | Completed
 :-- | :--: | :--: | :--: 
-[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | |
+[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) | Penn State | self-paced | X |
 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) | Hyndman | online book | |
 [Time Series Analysis with Python](https://mlcourse.ai/book/topic09/topic9_part1_time_series_python.html) | mlcourse.ai | self-paced | |
 [Time Series with Python](https://www.datacamp.com/tracks/time-series-with-python) | DataCamp | 20 hours | |
